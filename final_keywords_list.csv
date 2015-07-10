@@ -1,0 +1,3724 @@
+Transportation,chain,1.78
+Transportation,revenue,0.29
+Transportation,dollar,0.94
+Transportation,trade,0.47
+Transportation,mile,2.82
+Transportation,freight,3.77
+Transportation,aviation,0.59
+Transportation,patient,0.47
+Transportation,alternative,0
+Transportation,railroad,0.94
+Transportation,rescue,0.59
+Transportation,ground,0.59
+Transportation,snack,0.94
+Transportation,office,0
+Transportation,gulf,0.59
+Transportation,facility,0
+Transportation,terminal,0.94
+Transportation,source,0
+Transportation,program,0
+Transportation,cash,0
+Transportation,employee,0
+Transportation,suite,0.59
+Transportation,sound,0.47
+Transportation,flatbed,2.82
+Transportation,emergency,0.47
+Transportation,practice,0.29
+Transportation,coast,0.59
+Transportation,haul,2.82
+Transportation,linehaul,0.94
+Transportation,airfare,2.82
+Transportation,world,0
+Transportation,ticket,1.88
+Transportation,dryage,0.94
+Transportation,delivery,0
+Transportation,school,0.29
+Transportation,capacity,0.29
+Transportation,gift,0.29
+Transportation,truckload,1.88
+Transportation,knight,0.94
+Transportation,tran,0.94
+Transportation,solution,0
+Transportation,opera,0.94
+Transportation,mode,0.94
+Transportation,logistic,0
+Transportation,team,0
+Transportation,largo,0.94
+Transportation,tanker,0.94
+Transportation,view,0
+Transportation,status,0.94
+Transportation,requirement,0.94
+Transportation,hunt,0.59
+Transportation,leasing,0
+Transportation,deal,0.47
+Transportation,espa,0.94
+Transportation,energy,0
+Transportation,reefer,0.59
+Transportation,hawaii,0.59
+Transportation,owner,0.29
+Transportation,rate,0.29
+Transportation,growth,0
+Transportation,result,0.59
+Transportation,home,0
+Transportation,operation,0
+Transportation,employment,0.29
+Transportation,port,0.94
+Transportation,transport,3.3
+Transportation,addition,0.59
+Transportation,cargo,1.78
+Transportation,scale,0.47
+Transportation,container,0.59
+Transportation,network,0
+Transportation,entertainment,0.59
+Transportation,aeropuerto,1.88
+Transportation,brink,0.94
+Transportation,access,0.29
+Transportation,state,0
+Transportation,safety,0
+Transportation,shipment,0.94
+Transportation,provider,0
+Transportation,leader,0
+Transportation,core,0.29
+Transportation,transportation,1
+Transportation,business,0
+Transportation,schedule,1.88
+Transportation,driver,2.82
+Transportation,million,0.29
+Transportation,discount,1.18
+Transportation,flyer,0.94
+Transportation,extent,0.94
+Transportation,franchise,0.59
+Transportation,brokerage,1.18
+Transportation,security,0
+Transportation,card,0
+Transportation,care,0
+Transportation,training,0.59
+Transportation,shipper,1.88
+Transportation,service,0
+Transportation,warehousing,0.94
+Transportation,career,0
+Transportation,industry,0
+Transportation,contract,0.59
+Transportation,trucking,7.54
+Transportation,oficial,0.94
+Transportation,connection,0.94
+Transportation,carrier,1.88
+Transportation,place,0.29
+Transportation,airline,1.88
+Transportation,today,0
+Transportation,destination,2.82
+Transportation,saving,0.47
+Transportation,letter,0.59
+Transportation,family,0
+Transportation,supply,0
+Transportation,parcel,0.94
+Transportation,system,0
+Transportation,refriderated,0.94
+Transportation,transporter,0.59
+Transportation,operator,0.94
+Transportation,traveler,0.94
+Transportation,forwarding,0.94
+Transportation,quality,0
+Transportation,market,0
+Transportation,city,0.29
+Transportation,line,0
+Transportation,management,0
+Transportation,temperature,0.47
+Transportation,union,0.94
+Transportation,vacation,3.77
+Transportation,frieght,0.94
+Transportation,forwarder,0.94
+Transportation,maintenance,0.59
+Transportation,helicopter,1.18
+Transportation,louisiana,0.94
+Transportation,capital,0
+Transportation,website,0.47
+Transportation,flight,2.37
+Transportation,offering,0
+Transportation,company,0
+Transportation,hotel,0.59
+Transportation,search,0
+Transportation,veteran,0.59
+Transportation,volume,0.59
+Transportation,link,0.94
+Transportation,demand,0.47
+Transportation,subsidiary,0.89
+Transportation,pilot,1.88
+Transportation,customer,0
+Transportation,challenge,0.29
+Transportation,work,0
+Transportation,preparation,0.47
+Transportation,sourcing,0.47
+Transportation,cost,0.59
+Transportation,client,0.29
+Transportation,mechanic,0.94
+Transportation,fleet,0.59
+Transportation,distribution,0
+Transportation,route,0.59
+Transportation,sort,0.94
+Transportation,mexico,0
+Transportation,premier,0.59
+Transportation,surface,0
+Transportation,package,0.47
+Transportation,multimodal,0.94
+Transportation,partner,0
+Transportation,legroom,0.94
+Transportation,trip,0.94
+Transportation,railcar,0.59
+Transportation,information,0
+Transportation,sitio,0.94
+Transportation,variety,0
+Transportation,corporation,0
+Transportation,travel,1.78
+Transportation,airport,0.47
+Transportation,guadalajara,0.94
+Transportation,arrangement,0.94
+Transportation,book,1.41
+Transportation,republic,0.94
+Transportation,income,0.59
+Transportation,shuttle,0.94
+Transportation,party,1.88
+Transportation,indianapoli,0.94
+Transportation,tool,0
+Transportation,fare,1.88
+Transportation,product,0
+Transportation,iflyswa,0.94
+Transportation,track,0.94
+Transportation,drink,0.94
+Transportation,rail,0.59
+Transportation,loyalty,0.94
+Transportation,waterborne,0.94
+Transportation,loading,0.59
+Transportation,district,0.59
+Transportation,portal,0.59
+Transportation,student,0.47
+Transportation,professional,0
+Transportation,reservation,0.94
+Transportation,nation,0
+Transportation,payment,0.47
+Transportation,structure,0.29
+Transportation,bulk,0.59
+Transportation,center,0
+Transportation,sale,0
+Transportation,ocean,0.59
+Transportation,coal,0.59
+Transportation,reputation,0.94
+Transportation,truck,1.78
+Transportation,time,0.29
+Transportation,region,0.29
+Transportation,model,0.47
+Transportation,wing,0.59
+Finance,sector,0.35
+Finance,neighborhood,0.35
+Finance,ataxz,0.71
+Finance,office,0
+Finance,money,0
+Finance,trade,0.35
+Finance,report,0.45
+Finance,planning,1.43
+Finance,relation,0.45
+Finance,motorcycle,0.71
+Finance,association,0.71
+Finance,portfolio,0
+Finance,alternative,0
+Finance,worthington,0.71
+Finance,underwriting,0.71
+Finance,weekly,0.71
+Finance,access,0.22
+Finance,retirement,1.43
+Finance,group,0.71
+Finance,chain,0.22
+Finance,title,0.71
+Finance,banner,0.71
+Finance,guidance,0.9
+Finance,supply,0
+Finance,lender,0.45
+Finance,charge,0.71
+Finance,location,0
+Finance,treasury,0.9
+Finance,employee,0
+Finance,derivative,0.71
+Finance,maryland,0.71
+Finance,team,0
+Finance,work,0
+Finance,lending,1.43
+Finance,innovation,0
+Finance,merchant,1.43
+Finance,sound,0.35
+Finance,risk,0.71
+Finance,government,0
+Finance,press,0.35
+Finance,auto,0.67
+Finance,internet,1.07
+Finance,school,0.45
+Finance,commitment,0.45
+Finance,barrier,0.71
+Finance,servicing,0.9
+Finance,akron,0.71
+Finance,world,0
+Finance,cbot,0.71
+Finance,investor,0
+Finance,bank,10.77
+Finance,term,0.45
+Finance,resource,0
+Finance,gift,0.22
+Finance,solution,0
+Finance,atax,0.71
+Finance,banking,11.48
+Finance,benefit,0.71
+Finance,maintenance,0.22
+Finance,clientele,0.71
+Finance,activity,0.45
+Finance,depository,0.45
+Finance,security,0
+Finance,billpay,0.71
+Finance,university,0.35
+Finance,landscaping,0.71
+Finance,bond,0.71
+Finance,application,0
+Finance,charter,0.71
+Finance,interest,1.07
+Finance,leasing,0
+Finance,people,0
+Finance,globe,0.22
+Finance,receipt,0.45
+Finance,invester,0.71
+Finance,hawaii,0.45
+Finance,contracting,0.45
+Finance,rate,0.45
+Finance,individual,3.17
+Finance,trading,0.45
+Finance,cleveland,0.71
+Finance,coverage,0.45
+Finance,home,0
+Finance,operation,0
+Finance,employment,0.22
+Finance,investment,1
+Finance,special,0.45
+Finance,lockbox,0.71
+Finance,index,0.35
+Finance,practice,0.22
+Finance,scale,0.35
+Finance,business,0
+Finance,mortgage,6.34
+Finance,chicago,0.71
+Finance,profit,0.71
+Finance,texa,0.22
+Finance,specialist,0.71
+Finance,convenience,0.71
+Finance,research,0
+Finance,increase,0.45
+Finance,state,0
+Finance,energy,0
+Finance,turnaround,0.71
+Finance,debit,0.9
+Finance,developer,0
+Finance,approach,0.22
+Finance,leader,0
+Finance,core,0.22
+Finance,dalla,0.45
+Finance,mercantile,0.71
+Finance,parent,0.22
+Finance,exchange,0.9
+Finance,rock,0.35
+Finance,payroll,0.45
+Finance,broker,0.9
+Finance,efficiency,0.22
+Finance,protection,0
+Finance,relationship,1.81
+Finance,york,0.45
+Finance,advisor,1.43
+Finance,ratio,0.71
+Finance,respect,0.71
+Finance,card,0
+Finance,centerstate,0.71
+Finance,buck,0.45
+Finance,voice,0.35
+Finance,certificate,0.9
+Finance,amex,0.71
+Finance,career,0
+Finance,country,0
+Finance,industry,0
+Finance,bbcn,0.71
+Finance,florida,0.71
+Finance,provider,0
+Finance,experience,0.22
+Finance,example,0.71
+Finance,credit,2.51
+Finance,range,0
+Finance,leadership,0
+Finance,banker,2.15
+Finance,login,0.71
+Finance,housing,0.71
+Finance,jersey,0.45
+Finance,cleaning,0.45
+Finance,consulting,0.71
+Finance,alliance,0.35
+Finance,saving,5.38
+Finance,student,0.71
+Finance,family,0
+Finance,facility,0
+Finance,partnering,0.35
+Finance,hometown,0.71
+Finance,loan,7.24
+Finance,washington,1.43
+Finance,sweep,0.71
+Finance,community,0
+Finance,county,2.15
+Finance,entrepreneur,1.43
+Finance,flexibility,0.45
+Finance,charle,0.71
+Finance,arkansa,0.71
+Finance,brokerage,0.9
+Finance,owner,0.22
+Finance,equity,2.26
+Finance,array,0.22
+Finance,trust,1.35
+Finance,quality,0
+Finance,financing,0
+Finance,market,0
+Finance,city,0.22
+Finance,mississippi,0.71
+Finance,management,0
+Finance,wealth,2.51
+Finance,service,0
+Finance,area,0
+Finance,arlington,0.45
+Finance,overdraft,0.71
+Finance,philadelphia,0.71
+Finance,strategy,0.71
+Finance,giftcard,0.71
+Finance,asset,0
+Finance,letter,0.45
+Finance,hundred,0.45
+Finance,parking,0.45
+Finance,capital,0
+Finance,today,0
+Finance,board,0.35
+Finance,firm,1.43
+Finance,life,0
+Finance,mellon,0.45
+Finance,option,0.67
+Finance,offering,0
+Finance,offer,0
+Finance,company,0
+Finance,citizen,1.43
+Finance,award,0.45
+Finance,volume,0.45
+Finance,phone,0.45
+Finance,columbu,0.71
+Finance,reinventing,0.71
+Finance,subsidiary,0.45
+Finance,line,0
+Finance,institution,1.35
+Finance,volunteer,0.71
+Finance,customer,0
+Finance,account,1.13
+Finance,hour,0.9
+Finance,bill,1.35
+Finance,cash,0
+Finance,value,0
+Finance,project,0.22
+Finance,future,1.07
+Finance,property,0
+Finance,appraisal,0.71
+Finance,municipality,0.45
+Finance,care,0
+Finance,release,0.71
+Finance,marketplace,0.71
+Finance,estate,0
+Finance,century,0.22
+Finance,ozark,0.71
+Finance,occupier,0.71
+Finance,year,0
+Finance,belmont,0.71
+Finance,doesn,0.71
+Finance,patriot,0.71
+Finance,need,0.35
+Finance,engineering,0
+Finance,wellsville,0.71
+Finance,expertise,0
+Finance,fairlawn,0.71
+Finance,partner,0
+Finance,education,0
+Finance,townhouse,0.71
+Finance,check,0.45
+Finance,casualty,0.71
+Finance,finance,2.26
+Finance,information,0
+Finance,participant,0.71
+Finance,goal,1.79
+Finance,depositanytime,0.71
+Finance,variety,0
+Finance,technology,0
+Finance,travel,0.45
+Finance,beltway,0.71
+Finance,premier,0.45
+Finance,feature,0.45
+Finance,insurance,4.98
+Finance,equipment,0
+Finance,seminar,0.71
+Finance,branch,1.81
+Finance,korean,0.71
+Finance,tool,0
+Finance,stock,0
+Finance,development,0
+Finance,youth,0.71
+Finance,product,0
+Finance,material,0
+Finance,columbia,0.71
+Finance,quote,2.15
+Finance,advice,0.71
+Finance,alliancebankpa,0.71
+Finance,expectation,0.71
+Finance,director,0.45
+Finance,agriculture,0.35
+Finance,wire,0.35
+Finance,shareholder,0.22
+Finance,plan,0
+Finance,nymex,0.71
+Finance,calcutta,0.71
+Finance,middlesex,0.71
+Finance,america,0.35
+Finance,response,0.35
+Finance,building,0
+Finance,woodmere,0.71
+Finance,organization,0
+Finance,center,0
+Finance,commodity,0.45
+Finance,fund,0.35
+Finance,american,1.43
+Finance,borrowing,0.71
+Finance,sale,0
+Finance,waldorf,0.71
+Finance,person,0.71
+Finance,switch,0.35
+Finance,client,0.45
+Finance,deposit,4.3
+Finance,boone,0.71
+Finance,professional,0
+Finance,reward,1.43
+Finance,consumer,0
+Finance,decision,0.45
+Public Utilities,zinc,0.36
+Public Utilities,dish,0.36
+Public Utilities,integrity,0.36
+Public Utilities,recharge,0.57
+Public Utilities,content,0.28
+Public Utilities,electricity,3.26
+Public Utilities,disposal,1.45
+Public Utilities,environment,0.57
+Public Utilities,program,0
+Public Utilities,alberta,0.57
+Public Utilities,suite,0.36
+Public Utilities,pride,0.36
+Public Utilities,presentation,0.36
+Public Utilities,shaving,0.57
+Public Utilities,smartphone,1.15
+Public Utilities,innovation,0
+Public Utilities,wave,0.36
+Public Utilities,fall,0.57
+Public Utilities,drinking,1.15
+Public Utilities,ticker,0.57
+Public Utilities,voip,0.72
+Public Utilities,cable,0.36
+Public Utilities,transmission,1.72
+Public Utilities,solution,0
+Public Utilities,team,0
+Public Utilities,neighborhood,0.28
+Public Utilities,cooperative,0.57
+Public Utilities,paso,0.57
+Public Utilities,pdvconnect,0.57
+Public Utilities,aquifer,0.57
+Public Utilities,rate,0.36
+Public Utilities,arizona,0.57
+Public Utilities,design,0
+Public Utilities,investment,0
+Public Utilities,index,0.28
+Public Utilities,business,0
+Public Utilities,cell,0
+Public Utilities,marketer,0.36
+Public Utilities,transportation,0
+Public Utilities,exchange,0.36
+Public Utilities,caiso,0.57
+Public Utilities,water,1
+Public Utilities,bromine,0.57
+Public Utilities,protection,0
+Public Utilities,slater,0.57
+Public Utilities,change,0.57
+Public Utilities,search,0
+Public Utilities,tortoise,0.57
+Public Utilities,experience,0.18
+Public Utilities,trainer,0.57
+Public Utilities,love,0.36
+Public Utilities,family,0
+Public Utilities,mobility,0.57
+Public Utilities,partnering,0.28
+Public Utilities,glitch,0.57
+Public Utilities,licensing,0.36
+Public Utilities,cloud,0.36
+Public Utilities,menomonee,0.57
+Public Utilities,telu,0.57
+Public Utilities,hospital,0.28
+Public Utilities,texting,0.57
+Public Utilities,governance,0.36
+Public Utilities,asset,0
+Public Utilities,type,0.36
+Public Utilities,today,0
+Public Utilities,company,0
+Public Utilities,emission,0.28
+Public Utilities,award,0.36
+Public Utilities,site,0.54
+Public Utilities,phone,2.35
+Public Utilities,train,0.57
+Public Utilities,tariff,0.57
+Public Utilities,customer,0
+Public Utilities,account,0.18
+Public Utilities,science,0
+Public Utilities,midstream,0.72
+Public Utilities,control,0
+Public Utilities,estate,0
+Public Utilities,process,0
+Public Utilities,choice,0.28
+Public Utilities,scheduling,0.57
+Public Utilities,gallon,0.57
+Public Utilities,earpiece,0.57
+Public Utilities,information,0
+Public Utilities,recovery,0.36
+Public Utilities,comfort,0.57
+Public Utilities,stock,0
+Public Utilities,gaming,0.57
+Public Utilities,product,0
+Public Utilities,collection,0.57
+Public Utilities,accessory,0.18
+Public Utilities,lumo,0.57
+Public Utilities,data,0
+Public Utilities,light,0.36
+Public Utilities,headquarters,0.57
+Public Utilities,coal,0.36
+Public Utilities,responsibility,0.36
+Public Utilities,wind,1.43
+Public Utilities,miso,0.57
+Public Utilities,office,0
+Public Utilities,telecom,0.18
+Public Utilities,meter,0.57
+Public Utilities,buyer,0.57
+Public Utilities,scott,0.57
+Public Utilities,biomas,0.28
+Public Utilities,style,0.28
+Public Utilities,group,0.28
+Public Utilities,cassella,0.57
+Public Utilities,production,0
+Public Utilities,headsets,0.57
+Public Utilities,engery,0.57
+Public Utilities,nation,0
+Public Utilities,investor,0
+Public Utilities,name,0.36
+Public Utilities,university,0.28
+Public Utilities,capability,0.18
+Public Utilities,nyiso,0.57
+Public Utilities,financial,0.57
+Public Utilities,generation,0.9
+Public Utilities,energy,0
+Public Utilities,plant,0.86
+Public Utilities,bluetooth,0.57
+Public Utilities,operation,0
+Public Utilities,dynergy,0.57
+Public Utilities,event,0.28
+Public Utilities,network,0
+Public Utilities,semiconductor,0.28
+Public Utilities,safety,0
+Public Utilities,internet,2.01
+Public Utilities,print,0.28
+Public Utilities,fiber,0
+Public Utilities,wisconsin,1.15
+Public Utilities,telecommunication,0.36
+Public Utilities,california,0.36
+Public Utilities,york,0.18
+Public Utilities,dispatcher,0.57
+Public Utilities,card,0
+Public Utilities,organic,0.57
+Public Utilities,cadiz,0.57
+Public Utilities,route,0.36
+Public Utilities,place,0.18
+Public Utilities,serivce,0.57
+Public Utilities,revenue,0.18
+Public Utilities,municipality,0.36
+Public Utilities,preservation,0.36
+Public Utilities,array,0.18
+Public Utilities,clarity,0.57
+Public Utilities,quality,0
+Public Utilities,townhome,0.36
+Public Utilities,management,0
+Public Utilities,service,0
+Public Utilities,system,0
+Public Utilities,regulation,0.57
+Public Utilities,station,0.18
+Public Utilities,master,0.28
+Public Utilities,farming,0.57
+Public Utilities,hydropower,0.57
+Public Utilities,option,0.54
+Public Utilities,compressor,0.36
+Public Utilities,part,0
+Public Utilities,distance,1.72
+Public Utilities,financing,0
+Public Utilities,project,0.18
+Public Utilities,video,0.18
+Public Utilities,backflow,0.57
+Public Utilities,partnership,0.18
+Public Utilities,mine,0.28
+Public Utilities,latency,0.57
+Public Utilities,microphone,0.57
+Public Utilities,storage,0
+Public Utilities,equipment,0
+Public Utilities,emphasis,0.36
+Public Utilities,performance,0
+Public Utilities,channel,0.57
+Public Utilities,headset,0.57
+Public Utilities,price,0
+Public Utilities,shareholder,0.36
+Public Utilities,plan,0
+Public Utilities,device,0.18
+Public Utilities,payment,0.28
+Public Utilities,colocation,0.72
+Public Utilities,sale,0
+Public Utilities,pipe,0.28
+Public Utilities,enterprise,0.86
+Public Utilities,professional,0
+Public Utilities,consumer,0
+Public Utilities,selection,0.36
+Public Utilities,greenhouse,0.57
+Public Utilities,texa,0.36
+Public Utilities,maine,0.57
+Public Utilities,minnesota,0.57
+Public Utilities,employee,0
+Public Utilities,rankine,0.57
+Public Utilities,califonia,0.57
+Public Utilities,television,0.36
+Public Utilities,report,0.18
+Public Utilities,resource,0
+Public Utilities,deferral,0.57
+Public Utilities,fuel,0.18
+Public Utilities,vision,0.18
+Public Utilities,kardinya,0.57
+Public Utilities,testing,0
+Public Utilities,computer,0.18
+Public Utilities,innovator,0.57
+Public Utilities,capacity,0.72
+Public Utilities,state,0
+Public Utilities,email,1.08
+Public Utilities,conferencing,0.57
+Public Utilities,infrastructure,0
+Public Utilities,chlorination,0.57
+Public Utilities,premise,0.57
+Public Utilities,news,0
+Public Utilities,substation,0.36
+Public Utilities,climate,0.57
+Public Utilities,tablet,1.15
+Public Utilities,license,0.57
+Public Utilities,region,0.36
+Public Utilities,contract,0.18
+Public Utilities,supply,0
+Public Utilities,battery,1.15
+Public Utilities,overview,0.36
+Public Utilities,vdsl,0.57
+Public Utilities,earwear,0.57
+Public Utilities,initiative,0.57
+Public Utilities,carbon,0.28
+Public Utilities,conference,0.57
+Public Utilities,billing,0.36
+Public Utilities,west,0.36
+Public Utilities,maintenance,0.18
+Public Utilities,waste,1.45
+Public Utilities,life,0
+Public Utilities,premier,0.18
+Public Utilities,convert,0.57
+Public Utilities,demand,1.15
+Public Utilities,sound,0.57
+Public Utilities,bill,0.36
+Public Utilities,value,0
+Public Utilities,batterie,0.57
+Public Utilities,optimization,0.36
+Public Utilities,fleet,0.36
+Public Utilities,voice,0.86
+Public Utilities,mexico,0
+Public Utilities,calculator,0.36
+Public Utilities,telephone,1.08
+Public Utilities,surface,0
+Public Utilities,partner,0
+Public Utilities,technology,0
+Public Utilities,productivity,0.72
+Public Utilities,grant,0.57
+Public Utilities,media,0
+Public Utilities,speech,0.57
+Public Utilities,containerized,0.57
+Public Utilities,development,0
+Public Utilities,satellite,0.18
+Public Utilities,optic,0.36
+Public Utilities,footprint,0.28
+Public Utilities,cycle,0.36
+Public Utilities,vermont,0.57
+Public Utilities,center,0
+Public Utilities,builder,0.28
+Public Utilities,ocean,0.36
+Public Utilities,contact,0.57
+Public Utilities,recycling,0.86
+Public Utilities,cdzi,0.57
+Public Utilities,money,0
+Public Utilities,photonic,0.57
+Public Utilities,flywheel,0.57
+Public Utilities,bandwidth,1.72
+Public Utilities,voltage,0.36
+Public Utilities,alternative,0
+Public Utilities,speed,0.9
+Public Utilities,generator,0.54
+Public Utilities,application,0
+Public Utilities,point,0.28
+Public Utilities,improvement,0.36
+Public Utilities,source,0
+Public Utilities,perth,0.57
+Public Utilities,treatment,0.57
+Public Utilities,australia,0.57
+Public Utilities,grid,0.72
+Public Utilities,community,0
+Public Utilities,world,0
+Public Utilities,satisfaction,0.57
+Public Utilities,greeting,0.57
+Public Utilities,groundwater,1.15
+Public Utilities,right,0
+Public Utilities,deal,0.57
+Public Utilities,people,0
+Public Utilities,competition,0.57
+Public Utilities,home,0
+Public Utilities,transport,0.28
+Public Utilities,scale,0.28
+Public Utilities,broadband,0.86
+Public Utilities,integration,0.57
+Public Utilities,microwave,0.28
+Public Utilities,pioneer,0.28
+Public Utilities,market,0
+Public Utilities,provider,0
+Public Utilities,leader,0
+Public Utilities,power,0
+Public Utilities,processing,0
+Public Utilities,corp,0.36
+Public Utilities,manufacturer,0
+Public Utilities,plug,0.57
+Public Utilities,pipeline,0.18
+Public Utilities,package,0.28
+Public Utilities,industry,0
+Public Utilities,carrier,0.57
+Public Utilities,processor,0.18
+Public Utilities,software,0
+Public Utilities,duke,0.57
+Public Utilities,communication,0.9
+Public Utilities,utility,1.45
+Public Utilities,networking,0.18
+Public Utilities,compression,0.36
+Public Utilities,area,0
+Public Utilities,transfer,0.36
+Public Utilities,custom,0
+Public Utilities,conservation,1.45
+Public Utilities,suit,0.57
+Public Utilities,valley,0.36
+Public Utilities,handsfree,0.57
+Public Utilities,offering,0
+Public Utilities,offer,0
+Public Utilities,delivery,0
+Public Utilities,construction,0
+Public Utilities,subsidiary,0.18
+Public Utilities,homeownership,0.57
+Public Utilities,ecosystem,0.57
+Public Utilities,official,0.72
+Public Utilities,paging,0.57
+Public Utilities,distribution,0
+Public Utilities,expertise,0
+Public Utilities,education,0
+Public Utilities,floor,0.18
+Public Utilities,corporation,0
+Public Utilities,field,0.72
+Public Utilities,trash,0.57
+Public Utilities,outage,0.57
+Public Utilities,update,0.57
+Public Utilities,bundle,2.3
+Public Utilities,restoration,0.36
+Public Utilities,peak,0.36
+Public Utilities,coverage,0.36
+Public Utilities,desert,0.57
+Public Utilities,land,0.72
+Public Utilities,wifi,0.57
+Public Utilities,landfill,0.57
+Public Utilities,portion,0.57
+Public Utilities,time,0.18
+Public Utilities,megawatt,1.15
+Public Utilities,wastewater,0.36
+Energy,oilsand,0.46
+Energy,focus,0.46
+Energy,mining,0.69
+Energy,liquification,0.46
+Energy,electricity,0.29
+Energy,mower,0.29
+Energy,program,0
+Energy,presentation,0.58
+Energy,division,0.29
+Energy,premium,0.29
+Energy,risk,0.23
+Energy,tulsa,0.46
+Energy,choice,0.23
+Energy,servicing,0.29
+Energy,school,0.14
+Energy,aliphatic,0.46
+Energy,nasdaq,0.46
+Energy,sand,1.16
+Energy,excellence,0.23
+Energy,depository,0.29
+Energy,producting,0.46
+Energy,hawk,0.46
+Energy,methane,0.46
+Energy,trend,0.92
+Energy,onshore,2.76
+Energy,rate,0.14
+Energy,cost,0.43
+Energy,design,0
+Energy,enhancement,0.46
+Energy,investment,0
+Energy,business,0
+Energy,epumper,0.46
+Energy,cell,0
+Energy,capital,0
+Energy,method,0.29
+Energy,scada,0.46
+Energy,transportation,0
+Energy,invoicing,0.46
+Energy,estate,0
+Energy,water,0
+Energy,path,0.29
+Energy,buck,0.29
+Energy,casing,0.46
+Energy,talent,0.29
+Energy,caltex,0.46
+Energy,provider,0
+Energy,guide,0.29
+Energy,presalt,0.46
+Energy,california,0.29
+Energy,hercule,0.46
+Energy,partnering,0.23
+Energy,hydrofracking,0.46
+Energy,motor,0.29
+Energy,buildup,0.46
+Energy,market,0
+Energy,crewboat,0.46
+Energy,century,0.14
+Energy,petroleum,2.32
+Energy,governance,0.58
+Energy,invoices,0.46
+Energy,asset,0
+Energy,fbhp,0.46
+Energy,today,0
+Energy,hydro,0.46
+Energy,annulu,0.46
+Energy,diamond,0.23
+Energy,company,0
+Energy,emission,0.23
+Energy,plant,0.23
+Energy,fuel,0.43
+Energy,exco,0.46
+Energy,hole,0.46
+Energy,customer,0
+Energy,account,0.14
+Energy,room,0.58
+Energy,challenge,0.14
+Energy,work,0
+Energy,gasoline,0.92
+Energy,midstream,0.87
+Energy,drill,0.14
+Energy,oilfield,0.58
+Energy,control,0
+Energy,process,0
+Energy,producer,0.58
+Energy,sample,0.46
+Energy,hydrogen,0.29
+Energy,rescue,0.29
+Energy,information,0
+Energy,recovery,1.16
+Energy,stewardship,0.29
+Energy,switchgear,0.46
+Energy,chemical,0
+Energy,mmcf,0.46
+Energy,answer,0.46
+Energy,stock,0
+Energy,product,0
+Energy,frac,0.46
+Energy,neighbor,0.92
+Energy,smartgrid,0.46
+Energy,sustainability,0.23
+Energy,monitoring,0.14
+Energy,coast,0.29
+Energy,data,0
+Energy,purchase,0.58
+Energy,liquid,1.38
+Energy,leroy,0.46
+Energy,tetra,0.46
+Energy,liner,0.46
+Energy,coal,0.58
+Energy,responsibility,0.87
+Energy,deliquification,0.46
+Energy,vapor,0.46
+Energy,transporter,0.29
+Energy,wind,0.23
+Energy,ngsg,0.46
+Energy,houston,1.16
+Energy,office,0
+Energy,move,0.29
+Energy,mission,0.43
+Energy,biomas,0.23
+Energy,ethic,0.46
+Energy,style,0.23
+Energy,group,0.23
+Energy,crew,0.92
+Energy,platform,0.14
+Energy,production,0
+Energy,conoco,0.46
+Energy,return,0.14
+Energy,refiner,0.46
+Energy,drilling,3.48
+Energy,sustainably,0.46
+Energy,investor,0
+Energy,bank,0.23
+Energy,capability,0.14
+Energy,tubing,0.29
+Energy,cheveron,0.46
+Energy,development,0
+Energy,hanger,0.46
+Energy,energy,1
+Energy,receipt,0.29
+Energy,idea,0.92
+Energy,solution,0
+Energy,trading,0.14
+Energy,subsea,0.92
+Energy,measure,0.46
+Energy,distributor,0.23
+Energy,inverter,0.29
+Energy,operation,0
+Energy,ring,0.29
+Energy,description,0.29
+Energy,psig,0.46
+Energy,quincy,0.46
+Energy,liftboat,0.46
+Energy,oklahoma,0.92
+Energy,safety,0
+Energy,issue,0.46
+Energy,solvent,0.46
+Energy,ajax,0.46
+Energy,base,0.14
+Energy,midcon,0.92
+Energy,york,0.14
+Energy,thrust,0.46
+Energy,riser,0.46
+Energy,marine,1.38
+Energy,training,0.29
+Energy,backside,0.46
+Energy,flare,0.92
+Energy,area,0
+Energy,waxe,0.46
+Energy,rand,0.46
+Energy,wave,0.29
+Energy,feet,0.46
+Energy,wash,0.46
+Energy,array,0.14
+Energy,city,0.14
+Energy,management,0
+Energy,jackup,0.46
+Energy,service,0
+Energy,arch,0.46
+Energy,condensate,0.46
+Energy,reinvestment,0.46
+Energy,system,0
+Energy,recapitalization,0.46
+Energy,stimulation,0.92
+Energy,cooling,0.46
+Energy,station,0.29
+Energy,master,0.46
+Energy,agility,0.29
+Energy,shell,0.46
+Energy,consol,0.46
+Energy,compressor,0.58
+Energy,part,0
+Energy,sert,0.46
+Energy,target,0.29
+Energy,keyword,0.23
+Energy,tree,0.46
+Energy,board,0.46
+Energy,project,0.72
+Energy,future,0.23
+Energy,venture,0.29
+Energy,mcbride,0.46
+Energy,acquisition,1.15
+Energy,prospect,0.46
+Energy,redriver,0.46
+Energy,gathering,0.46
+Energy,partnership,0.29
+Energy,mine,0.69
+Energy,akita,0.46
+Energy,manner,0.46
+Energy,niobrara,0.46
+Energy,geoscience,0.46
+Energy,marathon,0.46
+Energy,screw,0.46
+Energy,strength,0.29
+Energy,gravity,0.46
+Energy,equipment,0
+Energy,emphasis,0.29
+Energy,fracture,0.46
+Energy,performance,0
+Energy,brand,0
+Energy,permian,0.46
+Energy,petrol,0.46
+Energy,price,0
+Energy,shale,1.38
+Energy,plan,0
+Energy,position,0.23
+Energy,class,0.23
+Energy,lawn,0.29
+Energy,waterflooding,0.46
+Energy,mineral,0.23
+Energy,flow,0
+Energy,sale,0
+Energy,formation,0.46
+Energy,refining,0.23
+Energy,petrolatum,0.46
+Energy,barrel,0.46
+Energy,leasehold,0.46
+Energy,reserve,2.76
+Energy,shop,0.23
+Energy,sandridge,0.46
+Energy,relation,0.29
+Energy,portfolio,0
+Energy,texa,1.01
+Energy,injection,0.29
+Energy,decade,0.46
+Energy,staff,0.29
+Energy,completion,0.92
+Energy,northeast,0.46
+Energy,reservoir,0.23
+Energy,gulf,0.29
+Energy,employee,0
+Energy,lobo,0.46
+Energy,kind,0.92
+Energy,waterflood,0.92
+Energy,report,0.29
+Energy,evolution,0.46
+Energy,resource,0
+Energy,chesapeake,0.46
+Energy,banking,0.23
+Energy,grimmerschmidt,0.46
+Energy,river,0.29
+Energy,steam,0.46
+Energy,vision,0.14
+Energy,view,0
+Energy,testing,0
+Energy,subsalt,0.46
+Energy,result,0.14
+Energy,alternative,0
+Energy,hydrocarbon,1.38
+Energy,capacity,0.14
+Energy,wealth,0.23
+Energy,powerhouse,0.46
+Energy,state,0
+Energy,crude,2.3
+Energy,exploration,4.94
+Energy,approach,0.43
+Energy,efficiency,0.14
+Energy,news,0
+Energy,career,0
+Energy,country,0
+Energy,region,0.43
+Energy,contract,0.14
+Energy,mellon,0.29
+Energy,lousiana,0.46
+Energy,mcfgpd,0.46
+Energy,supply,0
+Energy,overview,0.58
+Energy,community,0
+Energy,gasjack,0.46
+Energy,exploit,0.92
+Energy,vessel,0.46
+Energy,wattenberg,0.46
+Energy,trust,0.29
+Energy,wellbore,0.46
+Energy,midland,0.46
+Energy,strategy,0.46
+Energy,naphthenic,0.46
+Energy,interest,0.46
+Energy,basin,1.38
+Energy,plateau,0.46
+Energy,website,0.23
+Energy,life,0
+Energy,premier,0.14
+Energy,fund,0.23
+Energy,demand,0.23
+Energy,deepwater,0.92
+Energy,multi,0.29
+Energy,handling,0.23
+Energy,cash,0
+Energy,value,0
+Energy,optimization,0.29
+Energy,valeru,0.46
+Energy,fleet,0.14
+Energy,property,0
+Energy,anchor,0.46
+Energy,redevelopment,0.46
+Energy,mexico,0
+Energy,surface,0
+Energy,coalbed,0.46
+Energy,partner,0
+Energy,uplift,0.46
+Energy,technology,0
+Energy,media,0
+Energy,member,0.46
+Energy,vjack,0.46
+Energy,cotton,0.46
+Energy,voyager,0.46
+Energy,satellite,0.14
+Energy,rail,0.14
+Energy,automation,0.23
+Energy,director,0.58
+Energy,footprint,0.23
+Energy,sertco,0.46
+Energy,opportunity,0
+Energy,aquisition,0.46
+Energy,center,0
+Energy,well,1.38
+Energy,contact,0.46
+Energy,paraffinic,0.46
+Energy,organization,0
+Energy,model,0.23
+Energy,cure,0.29
+Energy,telemetry,0.23
+Energy,chiller,0.46
+Energy,executive,0.58
+Energy,evernen,0.46
+Energy,downhole,0.46
+Energy,chevrontexaco,0.46
+Energy,generator,0.14
+Energy,field,0.58
+Energy,percent,0.46
+Energy,location,0
+Energy,government,0
+Energy,grid,0.29
+Energy,world,0
+Energy,exxon,0.46
+Energy,cogeneration,0.46
+Energy,hunt,0.29
+Energy,officer,0.92
+Energy,drainage,0.46
+Energy,security,0
+Energy,page,0.14
+Energy,sitemap,0.92
+Energy,geophysical,0.92
+Energy,people,0
+Energy,growth,0
+Energy,home,0
+Energy,decision,0.29
+Energy,innovation,0
+Energy,leader,0
+Energy,redeveloping,0.46
+Energy,noise,0.46
+Energy,power,0
+Energy,marketing,0
+Energy,processing,0
+Energy,pressure,0.58
+Energy,leadership,0
+Energy,manufacturing,0
+Energy,stage,0.29
+Energy,datacenter,0.46
+Energy,industry,0
+Energy,range,0
+Energy,horizon,0.46
+Energy,processor,0.14
+Energy,software,0
+Energy,codell,0.46
+Energy,alliance,0.46
+Energy,colorado,0.46
+Energy,lessor,0.46
+Energy,retailer,0.23
+Energy,weather,0.46
+Energy,gary,0.46
+Energy,utility,0.43
+Energy,compression,0.58
+Energy,texaco,0.92
+Energy,support,0.14
+Energy,question,0.58
+Energy,custom,0
+Energy,towing,0.46
+Energy,valley,0.29
+Energy,building,0
+Energy,offering,0
+Energy,offer,0
+Energy,specialty,0.46
+Energy,delivery,0
+Energy,linn,0.92
+Energy,heat,0.29
+Energy,construction,0
+Energy,line,0
+Energy,pumper,0.46
+Energy,converter,0.23
+Energy,default,0.29
+Energy,refueling,0.46
+Energy,official,0.29
+Energy,graphite,0.46
+Energy,distribution,0
+Energy,odessa,0.46
+Energy,engine,0.29
+Energy,gsjk,0.46
+Energy,year,0
+Energy,imagination,0.46
+Energy,gemini,0.46
+Energy,expertise,0
+Energy,girl,0.29
+Energy,corporation,0
+Energy,ingersall,0.46
+Energy,fracking,0.46
+Energy,application,0
+Energy,wellhead,0.92
+Energy,income,0.29
+Energy,test,0.14
+Energy,devon,0.46
+Energy,discharge,0.46
+Energy,network,0
+Energy,billion,0.46
+Energy,land,0.29
+Energy,curve,0.46
+Energy,time,0.14
+Energy,wastewater,0.29
+Health Care,influenza,0.49
+Health Care,focus,0.24
+Health Care,oxycodone,0.49
+Health Care,skin,0.49
+Health Care,integrity,0.3
+Health Care,children,0.3
+Health Care,niacin,0.49
+Health Care,technique,0.49
+Health Care,aaron,0.49
+Health Care,program,0
+Health Care,dickinson,0.49
+Health Care,health,3.4
+Health Care,becton,0.49
+Health Care,degeneration,0.49
+Health Care,innovation,0
+Health Care,difference,0.49
+Health Care,condition,0.49
+Health Care,sovaprevir,0.49
+Health Care,michael,0.49
+Health Care,solution,0
+Health Care,swabbable,0.49
+Health Care,injectable,0.98
+Health Care,obesity,0.49
+Health Care,peramivir,0.49
+Health Care,cord,0.49
+Health Care,revolution,0.49
+Health Care,antibiotic,0.49
+Health Care,antigen,0.49
+Health Care,biology,0.3
+Health Care,sign,0.49
+Health Care,design,0
+Health Care,crystallography,0.49
+Health Care,port,0.24
+Health Care,filtration,0.49
+Health Care,filler,0.49
+Health Care,anthem,0.49
+Health Care,bovie,0.49
+Health Care,hematologic,0.49
+Health Care,cell,0
+Health Care,nurse,0.49
+Health Care,body,0.3
+Health Care,electroporation,0.49
+Health Care,component,0.15
+Health Care,cryopreservation,0.49
+Health Care,water,0
+Health Care,adcare,0.49
+Health Care,protection,0
+Health Care,healing,0.98
+Health Care,standard,0.98
+Health Care,substance,0.49
+Health Care,compliance,0.3
+Health Care,dosage,0.49
+Health Care,trial,0.61
+Health Care,gene,1.47
+Health Care,reprocessing,0.49
+Health Care,family,0
+Health Care,market,0
+Health Care,transplant,0.49
+Health Care,hospital,0.73
+Health Care,guideline,0.49
+Health Care,retinopathy,0.49
+Health Care,live,0.92
+Health Care,stage,0.92
+Health Care,company,0
+Health Care,bcrx,0.49
+Health Care,outpatient,0.49
+Health Care,infection,0.98
+Health Care,stethoscope,0.49
+Health Care,adult,0.3
+Health Care,nembutal,0.49
+Health Care,women,0.24
+Health Care,science,0
+Health Care,tissue,1.47
+Health Care,barbituate,0.49
+Health Care,drill,0.15
+Health Care,inhibitor,1.47
+Health Care,rehabilitation,0.49
+Health Care,proof,0.49
+Health Care,control,0
+Health Care,heart,1.47
+Health Care,nursing,0.49
+Health Care,agent,0.3
+Health Care,hydrogel,0.49
+Health Care,information,0
+Health Care,monitoring,0.15
+Health Care,dialysis,0.49
+Health Care,stewardship,0.3
+Health Care,chemical,0
+Health Care,furnace,0.49
+Health Care,illness,0.49
+Health Care,stock,0
+Health Care,product,0
+Health Care,philosophy,0.49
+Health Care,accessory,0.15
+Health Care,polymerase,0.49
+Health Care,catalog,0.49
+Health Care,blood,0.49
+Health Care,atherectomy,0.49
+Health Care,data,0
+Health Care,ablation,0.49
+Health Care,counter,0.49
+Health Care,sclerosis,0.49
+Health Care,biomarker,0.49
+Health Care,purification,0.49
+Health Care,sorafenib,0.49
+Health Care,healthcare,1.47
+Health Care,chimeric,0.49
+Health Care,immunotherapie,0.49
+Health Care,carcinoma,0.49
+Health Care,oncology,1.47
+Health Care,producer,0.15
+Health Care,webpage,0.49
+Health Care,wound,0.49
+Health Care,mission,0.46
+Health Care,collagenase,0.49
+Health Care,pharma,0.98
+Health Care,sodium,0.3
+Health Care,facility,0
+Health Care,platform,0.15
+Health Care,vikuiti,0.49
+Health Care,return,0.15
+Health Care,combination,0.98
+Health Care,material,0
+Health Care,nation,0
+Health Care,hypoxia,0.49
+Health Care,therapy,6.37
+Health Care,compound,0.3
+Health Care,inception,0.49
+Health Care,term,0.15
+Health Care,organ,0.49
+Health Care,receptor,0.98
+Health Care,clamp,0.49
+Health Care,malfunction,0.49
+Health Care,globe,0.15
+Health Care,baypharma,0.49
+Health Care,turnkey,0.49
+Health Care,year,0
+Health Care,laboratory,0.3
+Health Care,operation,0
+Health Care,event,0.49
+Health Care,special,0.3
+Health Care,triazolam,0.49
+Health Care,robert,0.3
+Health Care,valve,0.3
+Health Care,research,0
+Health Care,safety,0
+Health Care,medicine,1.23
+Health Care,biosimilar,0.49
+Health Care,million,0.15
+Health Care,diagnostic,0.92
+Health Care,management,0
+Health Care,imaging,0.24
+Health Care,care,0
+Health Care,surgicenter,0.49
+Health Care,transition,0.3
+Health Care,filter,0.3
+Health Care,stride,0.49
+Health Care,specialitie,0.49
+Health Care,littmann,0.49
+Health Care,researcher,0.49
+Health Care,custom,0
+Health Care,quality,0
+Health Care,gulfport,0.49
+Health Care,service,0
+Health Care,system,0
+Health Care,plastic,0.3
+Health Care,intermediate,0.61
+Health Care,akten,0.49
+Health Care,progenitors,0.49
+Health Care,institution,0.15
+Health Care,sourcing,0.24
+Health Care,phosphorylase,0.49
+Health Care,forodesine,0.49
+Health Care,outcome,0.3
+Health Care,phobia,0.49
+Health Care,atrion,0.49
+Health Care,spectrum,0.3
+Health Care,inpatient,0.49
+Health Care,need,0.49
+Health Care,opthalmic,0.49
+Health Care,border,0.49
+Health Care,acid,0.61
+Health Care,form,0.3
+Health Care,agency,0.3
+Health Care,mechanism,0.3
+Health Care,equipment,0
+Health Care,pain,1.47
+Health Care,molecule,0.98
+Health Care,virus,0.3
+Health Care,shareholder,0.15
+Health Care,plan,0
+Health Care,device,1.08
+Health Care,nucleotide,0.49
+Health Care,addiction,0.98
+Health Care,reimbursement,0.49
+Health Care,disease,4.41
+Health Care,enterprise,0.24
+Health Care,assistance,0.49
+Health Care,shot,0.3
+Health Care,certification,0.49
+Health Care,sterilant,0.49
+Health Care,cirrhotic,0.49
+Health Care,planning,0.24
+Health Care,relation,0.15
+Health Care,fear,0.49
+Health Care,injection,0.3
+Health Care,staff,0.3
+Health Care,access,0.15
+Health Care,actavi,0.49
+Health Care,kinase,0.49
+Health Care,employer,0.3
+Health Care,enzyme,0.3
+Health Care,alexion,0.49
+Health Care,factor,0.98
+Health Care,employee,0
+Health Care,hope,0.3
+Health Care,biopsy,0.49
+Health Care,fluid,0.24
+Health Care,beam,0.49
+Health Care,ophthalmology,0.49
+Health Care,caregiving,0.49
+Health Care,inducible,0.49
+Health Care,resource,0
+Health Care,continuum,0.49
+Health Care,combiplex,0.49
+Health Care,commercialization,1.47
+Health Care,scotchguard,0.49
+Health Care,view,0
+Health Care,gout,0.49
+Health Care,testing,0
+Health Care,startup,0.49
+Health Care,niche,0.3
+Health Care,individual,1.23
+Health Care,angioedema,0.49
+Health Care,surgery,0.98
+Health Care,electrode,0.3
+Health Care,homecare,0.49
+Health Care,diode,0.49
+Health Care,label,0.24
+Health Care,nucleoside,0.49
+Health Care,approach,0.15
+Health Care,discovery,1.47
+Health Care,breakaway,0.49
+Health Care,infrastructure,0
+Health Care,ocelo,0.49
+Health Care,complement,0.49
+Health Care,contamination,0.49
+Health Care,news,0
+Health Care,scotchgard,0.49
+Health Care,monitor,0.3
+Health Care,ulodesine,0.49
+Health Care,prescription,0.49
+Health Care,candidate,0.98
+Health Care,electrosurgery,0.49
+Health Care,career,0
+Health Care,country,0
+Health Care,region,0.15
+Health Care,drug,2.94
+Health Care,ahnesthetic,0.49
+Health Care,cancer,4.9
+Health Care,point,0.24
+Health Care,community,0
+Health Care,packaging,0.15
+Health Care,biopreservation,0.49
+Health Care,thinsulate,0.49
+Health Care,source,0
+Health Care,west,0.3
+Health Care,conceptualization,0.49
+Health Care,reduction,0.49
+Health Care,needleles,0.49
+Health Care,litman,0.49
+Health Care,rimiducid,0.49
+Health Care,life,0
+Health Care,scotchlite,0.49
+Health Care,diamondback,0.49
+Health Care,precision,0.3
+Health Care,angler,0.49
+Health Care,physician,0.98
+Health Care,novel,3.43
+Health Care,laser,0.24
+Health Care,calcium,0.49
+Health Care,aldara,0.49
+Health Care,inventment,0.49
+Health Care,vest,0.49
+Health Care,resident,0.49
+Health Care,inflatable,0.49
+Health Care,coating,0.24
+Health Care,site,0.15
+Health Care,pharm,0.49
+Health Care,contract,0.3
+Health Care,transmucosal,0.49
+Health Care,fibrillation,0.49
+Health Care,protein,0.3
+Health Care,technology,0
+Health Care,erlotinib,0.49
+Health Care,celator,0.49
+Health Care,generic,0.98
+Health Care,media,0
+Health Care,balloon,0.49
+Health Care,molding,0.49
+Health Care,radiation,0.49
+Health Care,surveillance,0.3
+Health Care,reprogramming,0.49
+Health Care,filtrete,0.49
+Health Care,purestem,0.49
+Health Care,development,0
+Health Care,http,0.49
+Health Care,hyaluronate,0.49
+Health Care,neuraminidase,0.49
+Health Care,catheter,0.98
+Health Care,opportunity,0
+Health Care,diabetes,0.49
+Health Care,analysis,0.3
+Health Care,edge,0.24
+Health Care,prevention,0.3
+Health Care,edema,0.49
+Health Care,alternative,0
+Health Care,diuril,0.49
+Health Care,announcement,0.49
+Health Care,macular,0.49
+Health Care,atrial,0.49
+Health Care,generator,0.15
+Health Care,ingredient,0.24
+Health Care,supply,0
+Health Care,woodlawn,0.49
+Health Care,instrument,0.24
+Health Care,treatment,2.2
+Health Care,cogentin,0.49
+Health Care,lacricath,0.49
+Health Care,government,0
+Health Care,stockpiling,0.49
+Health Care,quest,0.49
+Health Care,epidemic,0.49
+Health Care,world,0
+Health Care,viadel,0.49
+Health Care,benefit,0.24
+Health Care,disorder,1.54
+Health Care,therapeutic,3.92
+Health Care,opioid,0.49
+Health Care,right,0
+Health Care,sponge,0.49
+Health Care,dermatology,0.49
+Health Care,home,0
+Health Care,litmann,0.49
+Health Care,baudette,0.49
+Health Care,hepatitis,0.98
+Health Care,pioneer,0.49
+Health Care,provider,0
+Health Care,epic,0.3
+Health Care,leader,0
+Health Care,ophthalmologic,0.49
+Health Care,halkey,0.49
+Health Care,patient,4.16
+Health Care,business,0
+Health Care,marketing,0
+Health Care,discount,0.3
+Health Care,cone,0.49
+Health Care,manufacturing,0
+Health Care,optimize,0.49
+Health Care,vaccine,0.49
+Health Care,manufacturer,0
+Health Care,pipeline,0.15
+Health Care,lifestyle,0.49
+Health Care,housekeeping,0.49
+Health Care,industry,0
+Health Care,tumor,0.49
+Health Care,medicare,0.49
+Health Care,biologic,0.98
+Health Care,block,0.49
+Health Care,software,0
+Health Care,repair,0.24
+Health Care,disinfectant,0.49
+Health Care,alliance,0.24
+Health Care,protease,0.49
+Health Care,hypothermic,0.49
+Health Care,antidote,0.49
+Health Care,elasticity,0.49
+Health Care,lung,0.49
+Health Care,alxn,0.49
+Health Care,hospice,0.49
+Health Care,vikuity,0.49
+Health Care,purine,0.49
+Health Care,pharmaceutical,1.85
+Health Care,radiology,0.49
+Health Care,area,0
+Health Care,segment,0.15
+Health Care,support,0.15
+Health Care,immunotherapy,0.98
+Health Care,fight,0.49
+Health Care,tyrosine,0.49
+Health Care,function,0.49
+Health Care,offering,0
+Health Care,offer,0
+Health Care,brand,0
+Health Care,specialty,1.71
+Health Care,nutraceutical,0.49
+Health Care,delivery,0
+Health Care,line,0
+Health Care,regimen,0.49
+Health Care,injury,0.49
+Health Care,limit,0.49
+Health Care,distribution,0
+Health Care,medication,0.49
+Health Care,engineering,0
+Health Care,cure,0.3
+Health Care,formulation,0.49
+Health Care,anesthesia,0.98
+Health Care,uric,0.49
+Health Care,variety,0
+Health Care,storage,0
+Health Care,insurance,0.61
+Health Care,application,0
+Health Care,test,0.15
+Health Care,littman,0.49
+Health Care,picture,0.49
+Health Care,francisco,0.49
+Health Care,lubricate,0.49
+Health Care,luer,0.49
+Health Care,oximeter,0.49
+Health Care,detox,0.49
+Health Care,structure,0.15
+Health Care,biotechnology,0.61
+Consumer Services,ameditie,0.42
+Consumer Services,elvi,0.42
+Consumer Services,manager,0.26
+Consumer Services,elution,0.42
+Consumer Services,dish,0.26
+Consumer Services,children,0.26
+Consumer Services,apartment,1.27
+Consumer Services,hunting,0.42
+Consumer Services,smartxchange,0.42
+Consumer Services,pride,0.26
+Consumer Services,ingredient,0.21
+Consumer Services,hormone,0.42
+Consumer Services,outerwear,0.42
+Consumer Services,advantage,0.21
+Consumer Services,simmon,0.42
+Consumer Services,tacos,0.42
+Consumer Services,etenant,0.42
+Consumer Services,minute,0.42
+Consumer Services,margarita,0.42
+Consumer Services,salad,0.42
+Consumer Services,cable,0.53
+Consumer Services,level,0.26
+Consumer Services,solution,0
+Consumer Services,team,0
+Consumer Services,round,0.42
+Consumer Services,olympic,0.42
+Consumer Services,design,0
+Consumer Services,earth,0.42
+Consumer Services,investment,0
+Consumer Services,index,0.21
+Consumer Services,power,0
+Consumer Services,anniversary,0.84
+Consumer Services,uniform,0.42
+Consumer Services,access,0.26
+Consumer Services,capital,0
+Consumer Services,nacho,0.84
+Consumer Services,transportation,0
+Consumer Services,degree,0.21
+Consumer Services,water,0
+Consumer Services,bachelor,0.42
+Consumer Services,protection,0
+Consumer Services,studio,0.26
+Consumer Services,sophistication,0.42
+Consumer Services,search,0
+Consumer Services,airport,0.21
+Consumer Services,leadership,0
+Consumer Services,advertising,0.42
+Consumer Services,action,0.42
+Consumer Services,hospitality,0.26
+Consumer Services,kidk,0.42
+Consumer Services,love,0.53
+Consumer Services,guacamole,0.42
+Consumer Services,licensing,0.26
+Consumer Services,crime,0.42
+Consumer Services,gateway,0.42
+Consumer Services,market,0
+Consumer Services,projector,0.42
+Consumer Services,sweater,0.84
+Consumer Services,mexico,0
+Consumer Services,pearl,0.42
+Consumer Services,amenities,0.42
+Consumer Services,asset,0
+Consumer Services,fragrance,0.26
+Consumer Services,memory,0.26
+Consumer Services,today,0
+Consumer Services,diamond,0.42
+Consumer Services,door,0.21
+Consumer Services,aisle,0.42
+Consumer Services,company,0
+Consumer Services,curriculum,0.42
+Consumer Services,trail,0.42
+Consumer Services,zapp,0.42
+Consumer Services,adult,0.53
+Consumer Services,baby,0.42
+Consumer Services,women,0.21
+Consumer Services,customer,0
+Consumer Services,grill,0.42
+Consumer Services,hour,0.26
+Consumer Services,science,0
+Consumer Services,work,0
+Consumer Services,florist,0.42
+Consumer Services,mall,0.42
+Consumer Services,biscuit,0.42
+Consumer Services,pawn,0.42
+Consumer Services,process,0
+Consumer Services,household,0.26
+Consumer Services,fulfillment,0.42
+Consumer Services,clothing,2.12
+Consumer Services,information,0
+Consumer Services,arbor,0.84
+Consumer Services,goal,0.21
+Consumer Services,dress,0.84
+Consumer Services,feature,0.53
+Consumer Services,animal,0.26
+Consumer Services,answer,0.21
+Consumer Services,pizza,0.42
+Consumer Services,product,0
+Consumer Services,designer,0.21
+Consumer Services,beauty,0.42
+Consumer Services,chlli,0.42
+Consumer Services,notebook,0.26
+Consumer Services,debt,0.84
+Consumer Services,salsa,0.84
+Consumer Services,choice,0.21
+Consumer Services,data,0
+Consumer Services,engineering,0
+Consumer Services,rental,0.42
+Consumer Services,workstation,0.26
+Consumer Services,housewares,0.42
+Consumer Services,jail,0.42
+Consumer Services,necklace,0.42
+Consumer Services,order,0.42
+Consumer Services,houston,0.26
+Consumer Services,mexican,0.84
+Consumer Services,office,0
+Consumer Services,pant,0.42
+Consumer Services,telecom,0.13
+Consumer Services,presence,0.42
+Consumer Services,skirt,0.42
+Consumer Services,developer,0
+Consumer Services,style,0.63
+Consumer Services,monitor,0.26
+Consumer Services,fullfillment,0.42
+Consumer Services,franchising,0.42
+Consumer Services,handheld,0.42
+Consumer Services,mattress,0.42
+Consumer Services,voip,0.26
+Consumer Services,sauce,0.42
+Consumer Services,artisanal,0.42
+Consumer Services,good,0.42
+Consumer Services,return,0.13
+Consumer Services,food,1.34
+Consumer Services,auto,0.13
+Consumer Services,practice,0.13
+Consumer Services,band,0.42
+Consumer Services,hamilton,0.42
+Consumer Services,investor,0
+Consumer Services,silver,0.26
+Consumer Services,bank,0.21
+Consumer Services,bread,0.42
+Consumer Services,name,0.53
+Consumer Services,relleno,0.42
+Consumer Services,earring,0.42
+Consumer Services,drop,0.42
+Consumer Services,barton,0.42
+Consumer Services,rock,0.21
+Consumer Services,bdnreit,0.42
+Consumer Services,house,0.26
+Consumer Services,energy,0
+Consumer Services,stockholder,0.42
+Consumer Services,insulation,0.26
+Consumer Services,sandwich,0.42
+Consumer Services,klumb,0.42
+Consumer Services,magazine,0.84
+Consumer Services,operation,0
+Consumer Services,amusement,0.42
+Consumer Services,flower,0.42
+Consumer Services,network,0
+Consumer Services,entertainment,0.26
+Consumer Services,quality,0
+Consumer Services,robert,0.26
+Consumer Services,research,0
+Consumer Services,content,0.21
+Consumer Services,mdlx,0.42
+Consumer Services,safety,0
+Consumer Services,internet,0.21
+Consumer Services,print,0.21
+Consumer Services,surprise,0.42
+Consumer Services,math,0.42
+Consumer Services,bridgepoint,0.42
+Consumer Services,fiber,0
+Consumer Services,million,0.13
+Consumer Services,york,0.13
+Consumer Services,hoodie,0.42
+Consumer Services,accessory,0.67
+Consumer Services,princess,0.42
+Consumer Services,card,0
+Consumer Services,care,0
+Consumer Services,advance,0.26
+Consumer Services,tortilla,0.84
+Consumer Services,language,0.42
+Consumer Services,gourmet,0.42
+Consumer Services,birthday,0.42
+Consumer Services,footwear,0.26
+Consumer Services,signature,0.42
+Consumer Services,austin,0.42
+Consumer Services,number,0.26
+Consumer Services,price,0
+Consumer Services,fullosophy,0.42
+Consumer Services,plano,0.42
+Consumer Services,owner,0.26
+Consumer Services,ring,0.26
+Consumer Services,barbacoa,0.42
+Consumer Services,electronic,0.4
+Consumer Services,size,0.26
+Consumer Services,townhome,0.26
+Consumer Services,beary,0.42
+Consumer Services,management,0
+Consumer Services,service,0
+Consumer Services,festival,0.42
+Consumer Services,arlington,0.26
+Consumer Services,engagement,0.26
+Consumer Services,system,0
+Consumer Services,teacher,0.42
+Consumer Services,master,0.21
+Consumer Services,stock,0
+Consumer Services,john,0.26
+Consumer Services,store,1.07
+Consumer Services,lease,0.8
+Consumer Services,nutrition,0.26
+Consumer Services,hangout,0.42
+Consumer Services,stomach,0.42
+Consumer Services,season,0.42
+Consumer Services,tool,0
+Consumer Services,hotel,0.53
+Consumer Services,park,0.42
+Consumer Services,part,0
+Consumer Services,institution,0.13
+Consumer Services,chuychanga,0.42
+Consumer Services,financing,0
+Consumer Services,keyword,0.21
+Consumer Services,defense,0.13
+Consumer Services,video,0.13
+Consumer Services,doctorate,0.42
+Consumer Services,martini,0.42
+Consumer Services,acquisition,0.21
+Consumer Services,fashion,0.26
+Consumer Services,laidback,0.42
+Consumer Services,correction,0.42
+Consumer Services,partnership,0.13
+Consumer Services,mind,0.42
+Consumer Services,steak,0.84
+Consumer Services,rent,0.8
+Consumer Services,need,0.21
+Consumer Services,allen,0.42
+Consumer Services,curbside,0.42
+Consumer Services,unprocessed,0.42
+Consumer Services,hotspot,0.42
+Consumer Services,port,0.21
+Consumer Services,dining,0.42
+Consumer Services,hatch,0.42
+Consumer Services,objective,0.53
+Consumer Services,performance,0
+Consumer Services,taggant,0.42
+Consumer Services,fresca,0.42
+Consumer Services,printer,0.26
+Consumer Services,aspen,0.42
+Consumer Services,csmg,0.42
+Consumer Services,mother,0.42
+Consumer Services,basket,0.42
+Consumer Services,plan,0
+Consumer Services,device,0.26
+Consumer Services,coin,0.26
+Consumer Services,segment,0.13
+Consumer Services,class,0.21
+Consumer Services,colocation,0.26
+Consumer Services,flow,0
+Consumer Services,drive,0.42
+Consumer Services,wing,0.26
+Consumer Services,occasion,0.42
+Consumer Services,consumer,0
+Consumer Services,shop,0.84
+Consumer Services,atmosphere,0.42
+Consumer Services,selection,0.53
+Consumer Services,gold,0.26
+Consumer Services,shoe,1.27
+Consumer Services,bedroom,0.42
+Consumer Services,portfolio,0
+Consumer Services,chicken,0.84
+Consumer Services,texa,0.13
+Consumer Services,trot,0.42
+Consumer Services,richmond,0.42
+Consumer Services,upgrade,0.26
+Consumer Services,menu,1.27
+Consumer Services,guidance,0.26
+Consumer Services,analyst,0.42
+Consumer Services,money,0
+Consumer Services,aprtment,0.42
+Consumer Services,rice,0.42
+Consumer Services,michigan,0.42
+Consumer Services,watch,0.84
+Consumer Services,television,0.13
+Consumer Services,christopher,0.42
+Consumer Services,wedding,0.42
+Consumer Services,merchandise,0.42
+Consumer Services,resource,0
+Consumer Services,leather,0.42
+Consumer Services,fixin,0.42
+Consumer Services,architecture,0.42
+Consumer Services,logistic,0
+Consumer Services,cufflinks,0.42
+Consumer Services,river,0.26
+Consumer Services,view,0
+Consumer Services,leasing,0
+Consumer Services,intelligence,0.42
+Consumer Services,computer,0.4
+Consumer Services,result,0.13
+Consumer Services,opportunistically,0.42
+Consumer Services,sport,0.42
+Consumer Services,mortgage,1.07
+Consumer Services,review,0.26
+Consumer Services,cavelti,0.42
+Consumer Services,outsourcing,0.26
+Consumer Services,gemstone,0.42
+Consumer Services,rita,0.42
+Consumer Services,lamar,0.42
+Consumer Services,dalla,0.26
+Consumer Services,parent,0.26
+Consumer Services,franchise,0.26
+Consumer Services,jeweller,0.42
+Consumer Services,configuration,0.42
+Consumer Services,restaurant,1.69
+Consumer Services,career,0
+Consumer Services,country,0
+Consumer Services,workplace,0.42
+Consumer Services,macwarehouse,0.42
+Consumer Services,rose,0.42
+Consumer Services,supply,0
+Consumer Services,toni,0.42
+Consumer Services,loan,0.8
+Consumer Services,jeans,1.27
+Consumer Services,community,0
+Consumer Services,tennessee,0.42
+Consumer Services,tmng,0.42
+Consumer Services,ranchero,0.42
+Consumer Services,trust,1.2
+Consumer Services,condo,0.42
+Consumer Services,carnita,0.42
+Consumer Services,beef,0.42
+Consumer Services,source,0
+Consumer Services,strategy,0.63
+Consumer Services,beer,0.42
+Consumer Services,stadium,0.42
+Consumer Services,location,0
+Consumer Services,firm,0.42
+Consumer Services,mike,0.42
+Consumer Services,shopping,0.8
+Consumer Services,fire,0.42
+Consumer Services,centerpiece,0.42
+Consumer Services,chile,0.42
+Consumer Services,child,0.42
+Consumer Services,atlanta,0.42
+Consumer Services,maggiano,0.42
+Consumer Services,laser,0.21
+Consumer Services,cash,0
+Consumer Services,value,0
+Consumer Services,resturant,0.42
+Consumer Services,property,0
+Consumer Services,guide,0.26
+Consumer Services,century,0.13
+Consumer Services,hardware,0.53
+Consumer Services,telephony,0.26
+Consumer Services,technology,0
+Consumer Services,cafe,0.42
+Consumer Services,shirt,0.84
+Consumer Services,media,0
+Consumer Services,authentication,0.26
+Consumer Services,inventory,0.53
+Consumer Services,vegetable,0.42
+Consumer Services,development,0
+Consumer Services,satellite,0.13
+Consumer Services,student,0.21
+Consumer Services,opportunity,0
+Consumer Services,burrito,0.84
+Consumer Services,center,0
+Consumer Services,markup,0.42
+Consumer Services,antonio,0.42
+Consumer Services,client,0.13
+Consumer Services,jersey,0.26
+Consumer Services,estate,0
+Consumer Services,organization,0
+Consumer Services,modem,0.26
+Consumer Services,sourced,0.42
+Consumer Services,boot,0.42
+Consumer Services,laptop,0.21
+Consumer Services,executive,0.26
+Consumer Services,speed,0.13
+Consumer Services,cilantro,0.42
+Consumer Services,microwarehouse,0.42
+Consumer Services,twilight,0.42
+Consumer Services,desktop,0.26
+Consumer Services,lender,0.26
+Consumer Services,amorique,0.42
+Consumer Services,board,0.21
+Consumer Services,prison,0.42
+Consumer Services,input,0.26
+Consumer Services,locator,0.42
+Consumer Services,government,0
+Consumer Services,selma,0.42
+Consumer Services,virginia,0.42
+Consumer Services,cedar,0.42
+Consumer Services,world,0
+Consumer Services,execution,0.42
+Consumer Services,furniture,0.4
+Consumer Services,gift,0.53
+Consumer Services,bracelet,0.42
+Consumer Services,server,0.26
+Consumer Services,chamber,0.26
+Consumer Services,security,0
+Consumer Services,page,0.13
+Consumer Services,right,0
+Consumer Services,parade,0.42
+Consumer Services,deal,0.63
+Consumer Services,people,0
+Consumer Services,spring,0.26
+Consumer Services,privatization,0.42
+Consumer Services,billboard,0.42
+Consumer Services,home,0
+Consumer Services,lightning,0.42
+Consumer Services,employment,0.13
+Consumer Services,jewelry,1.27
+Consumer Services,broadband,0.21
+Consumer Services,integration,0.21
+Consumer Services,everything,0.42
+Consumer Services,provider,0
+Consumer Services,leader,0
+Consumer Services,core,0.13
+Consumer Services,pepper,0.42
+Consumer Services,business,0
+Consumer Services,santa,0.42
+Consumer Services,pasta,0.42
+Consumer Services,wader,0.42
+Consumer Services,anything,0.42
+Consumer Services,face,0.26
+Consumer Services,industry,0
+Consumer Services,bojangle,0.42
+Consumer Services,range,0
+Consumer Services,road,0.26
+Consumer Services,software,0
+Consumer Services,flatbread,0.42
+Consumer Services,repair,0.21
+Consumer Services,consulting,0.42
+Consumer Services,facility,0
+Consumer Services,communication,0.13
+Consumer Services,retailer,0.21
+Consumer Services,handbag,0.42
+Consumer Services,strip,0.26
+Consumer Services,networking,0.13
+Consumer Services,jewellery,0.42
+Consumer Services,area,0
+Consumer Services,support,0.13
+Consumer Services,sock,0.42
+Consumer Services,custom,0
+Consumer Services,music,0.42
+Consumer Services,offering,0
+Consumer Services,poster,0.42
+Consumer Services,brand,0
+Consumer Services,vehicle,0.26
+Consumer Services,delivery,0
+Consumer Services,construction,0
+Consumer Services,junior,0.42
+Consumer Services,fort,0.26
+Consumer Services,appliance,0.53
+Consumer Services,multiservice,0.42
+Consumer Services,meta,0.42
+Consumer Services,toner,0.42
+Consumer Services,distribution,0
+Consumer Services,website,0.21
+Consumer Services,scanner,0.42
+Consumer Services,request,0.42
+Consumer Services,tshirt,0.42
+Consumer Services,expertise,0
+Consumer Services,education,0
+Consumer Services,girl,0.26
+Consumer Services,booz,0.42
+Consumer Services,floor,0.13
+Consumer Services,corporation,0
+Consumer Services,peace,0.42
+Consumer Services,rubber,0.26
+Consumer Services,application,0
+Consumer Services,book,0.21
+Consumer Services,warehouse,0.84
+Consumer Services,jeweler,0.84
+Consumer Services,shenandoah,0.42
+Consumer Services,structure,0.13
+Consumer Services,building,0
+Consumer Services,phone,0.13
+Consumer Services,baker,0.42
+Consumer Services,apparel,0.8
+Consumer Services,buffalo,0.42
+Basic Industries,mineralization,0.41
+Basic Industries,degradable,0.41
+Basic Industries,focus,0.2
+Basic Industries,debris,0.41
+Basic Industries,zinc,0.26
+Basic Industries,fluorination,0.41
+Basic Industries,mercer,0.41
+Basic Industries,trolley,0.41
+Basic Industries,bioplastic,0.41
+Basic Industries,duratran,0.41
+Basic Industries,sulfate,0.41
+Basic Industries,environment,0.2
+Basic Industries,program,0
+Basic Industries,stationery,0.41
+Basic Industries,health,0.26
+Basic Industries,ingredient,0.2
+Basic Industries,town,0.41
+Basic Industries,ceramic,0.41
+Basic Industries,premium,0.26
+Basic Industries,advantage,0.2
+Basic Industries,blanket,0.83
+Basic Industries,premask,0.41
+Basic Industries,microbe,0.83
+Basic Industries,recreation,0.41
+Basic Industries,transmission,0.41
+Basic Industries,solution,0
+Basic Industries,excellence,0.41
+Basic Industries,agchem,0.41
+Basic Industries,team,0
+Basic Industries,force,0.26
+Basic Industries,crop,0.41
+Basic Industries,synergy,0.41
+Basic Industries,biomaterial,0.41
+Basic Industries,cost,0.26
+Basic Industries,design,0
+Basic Industries,forging,0.41
+Basic Industries,acid,0.26
+Basic Industries,panda,0.41
+Basic Industries,power,0
+Basic Industries,tambour,0.41
+Basic Industries,cell,0
+Basic Industries,printing,1.24
+Basic Industries,capital,0
+Basic Industries,supplier,0.83
+Basic Industries,marketer,0.26
+Basic Industries,processing,0
+Basic Industries,transportation,0
+Basic Industries,component,0.26
+Basic Industries,water,0
+Basic Industries,protection,0
+Basic Industries,ethanol,0.41
+Basic Industries,cargill,0.41
+Basic Industries,disposal,0.26
+Basic Industries,cesium,0.41
+Basic Industries,succinate,0.41
+Basic Industries,sewer,0.41
+Basic Industries,family,0
+Basic Industries,treatment,0.2
+Basic Industries,letterhead,0.41
+Basic Industries,market,0
+Basic Industries,monetization,0.26
+Basic Industries,additive,2.07
+Basic Industries,switchyard,0.41
+Basic Industries,smelter,0.41
+Basic Industries,petroleum,0.26
+Basic Industries,live,0.26
+Basic Industries,asset,0
+Basic Industries,fragrance,0.26
+Basic Industries,graphene,0.26
+Basic Industries,diamond,0.2
+Basic Industries,door,0.2
+Basic Industries,company,0
+Basic Industries,envelope,0.83
+Basic Industries,glass,0.52
+Basic Industries,mitsubishi,0.41
+Basic Industries,women,0.2
+Basic Industries,customer,0
+Basic Industries,waterfront,0.41
+Basic Industries,tunnel,0.41
+Basic Industries,work,0
+Basic Industries,roof,0.41
+Basic Industries,flagship,0.41
+Basic Industries,oxide,0.41
+Basic Industries,nebraska,0.41
+Basic Industries,drill,0.13
+Basic Industries,oilfield,0.26
+Basic Industries,control,0
+Basic Industries,estate,0
+Basic Industries,surfactant,0.41
+Basic Industries,process,0
+Basic Industries,household,0.26
+Basic Industries,titanium,0.26
+Basic Industries,pond,0.41
+Basic Industries,impregnation,0.41
+Basic Industries,hydrogen,0.26
+Basic Industries,texoprint,0.41
+Basic Industries,information,0
+Basic Industries,monoxide,0.41
+Basic Industries,demolition,0.83
+Basic Industries,chemical,0
+Basic Industries,louisville,0.41
+Basic Industries,forest,0.41
+Basic Industries,christensen,0.41
+Basic Industries,stock,0
+Basic Industries,profile,0.41
+Basic Industries,abrasive,0.41
+Basic Industries,product,0
+Basic Industries,designer,0.2
+Basic Industries,farm,0.41
+Basic Industries,spot,0.41
+Basic Industries,collection,0.2
+Basic Industries,sustainability,0.62
+Basic Industries,cadmium,0.41
+Basic Industries,portfolio,0
+Basic Industries,curative,0.41
+Basic Industries,carbonles,0.41
+Basic Industries,response,0.41
+Basic Industries,rolloff,0.41
+Basic Industries,purchase,0.26
+Basic Industries,commodity,0.52
+Basic Industries,laminate,0.41
+Basic Industries,kimlon,0.41
+Basic Industries,healthcare,0.2
+Basic Industries,plumbing,0.41
+Basic Industries,patio,0.41
+Basic Industries,producer,1.17
+Basic Industries,paper,1.66
+Basic Industries,biomas,0.2
+Basic Industries,nitrogen,0.83
+Basic Industries,developer,0
+Basic Industries,adhesive,0.83
+Basic Industries,mitsui,0.41
+Basic Industries,sodium,0.26
+Basic Industries,platform,0.26
+Basic Industries,production,0
+Basic Industries,farmer,0.26
+Basic Industries,animal,0.26
+Basic Industries,succinic,0.41
+Basic Industries,food,0.78
+Basic Industries,material,0
+Basic Industries,nation,0
+Basic Industries,homebuilder,0.26
+Basic Industries,drilling,0.52
+Basic Industries,compound,0.52
+Basic Industries,front,0.26
+Basic Industries,investor,0
+Basic Industries,silver,1.04
+Basic Industries,term,0.13
+Basic Industries,aluminum,0.78
+Basic Industries,oxygen,0.41
+Basic Industries,cannabi,0.41
+Basic Industries,capability,0.13
+Basic Industries,piping,0.41
+Basic Industries,bullion,0.41
+Basic Industries,tubing,0.26
+Basic Industries,generation,0.26
+Basic Industries,energy,0
+Basic Industries,owner,0.13
+Basic Industries,trading,0.13
+Basic Industries,year,0
+Basic Industries,distributor,0.41
+Basic Industries,laboratory,0.26
+Basic Industries,operation,0
+Basic Industries,agriculture,0.62
+Basic Industries,canada,0.41
+Basic Industries,network,0
+Basic Industries,quality,0
+Basic Industries,research,0
+Basic Industries,increase,0.26
+Basic Industries,safety,0
+Basic Industries,reforestation,0.41
+Basic Industries,dioxide,0.41
+Basic Industries,print,0.2
+Basic Industries,evaluation,0.41
+Basic Industries,eagle,0.26
+Basic Industries,fiber,0
+Basic Industries,telecommunication,0.13
+Basic Industries,watermark,0.41
+Basic Industries,amines,0.41
+Basic Industries,ferrou,0.41
+Basic Industries,backer,0.41
+Basic Industries,base,0.13
+Basic Industries,techni,0.41
+Basic Industries,intermediate,0.26
+Basic Industries,buckskin,0.41
+Basic Industries,metallica,0.41
+Basic Industries,care,0
+Basic Industries,corrosion,0.41
+Basic Industries,district,0.26
+Basic Industries,spill,0.41
+Basic Industries,alkyl,0.41
+Basic Industries,steward,0.41
+Basic Industries,thing,0.26
+Basic Industries,machining,0.83
+Basic Industries,place,0.13
+Basic Industries,feed,0.41
+Basic Industries,copper,0.83
+Basic Industries,grade,1.24
+Basic Industries,price,0
+Basic Industries,footprint,0.2
+Basic Industries,insulation,0.26
+Basic Industries,electronic,0.26
+Basic Industries,maple,0.41
+Basic Industries,engineer,0.2
+Basic Industries,management,0
+Basic Industries,publication,0.41
+Basic Industries,service,0
+Basic Industries,system,0
+Basic Industries,plastic,0.52
+Basic Industries,paint,0.41
+Basic Industries,backhaul,0.41
+Basic Industries,storm,0.41
+Basic Industries,nutrition,0.52
+Basic Industries,mining,1.86
+Basic Industries,option,0.26
+Basic Industries,selector,0.41
+Basic Industries,argon,0.41
+Basic Industries,part,0
+Basic Industries,population,0.41
+Basic Industries,steel,1.31
+Basic Industries,hobbyist,0.41
+Basic Industries,financing,0
+Basic Industries,target,0.26
+Basic Industries,constructio,0.41
+Basic Industries,future,0.2
+Basic Industries,magnesium,0.41
+Basic Industries,venture,0.52
+Basic Industries,bridge,0.26
+Basic Industries,half,0.41
+Basic Industries,partnership,0.13
+Basic Industries,mine,1.24
+Basic Industries,dozen,0.41
+Basic Industries,offering,0
+Basic Industries,equipment,0
+Basic Industries,bonanza,0.41
+Basic Industries,objective,0.26
+Basic Industries,performance,0
+Basic Industries,inliner,0.41
+Basic Industries,fastner,0.41
+Basic Industries,alloy,0.52
+Basic Industries,consignment,0.41
+Basic Industries,antimonial,0.41
+Basic Industries,entry,0.26
+Basic Industries,drought,0.41
+Basic Industries,america,0.41
+Basic Industries,segment,0.26
+Basic Industries,class,0.2
+Basic Industries,latex,0.41
+Basic Industries,omaha,0.41
+Basic Industries,metal,2.09
+Basic Industries,sale,0
+Basic Industries,pipe,0.2
+Basic Industries,tech,0.41
+Basic Industries,compactor,0.41
+Basic Industries,refining,0.2
+Basic Industries,physics,0.26
+Basic Industries,filing,0.41
+Basic Industries,sector,0.41
+Basic Industries,shot,0.26
+Basic Industries,gold,2.62
+Basic Industries,evaporation,0.41
+Basic Industries,brine,0.41
+Basic Industries,relation,0.13
+Basic Industries,corner,0.41
+Basic Industries,nevada,0.41
+Basic Industries,feedstock,0.41
+Basic Industries,reservoir,0.2
+Basic Industries,masterbatche,0.41
+Basic Industries,enzyme,0.26
+Basic Industries,wood,0.52
+Basic Industries,tape,0.26
+Basic Industries,money,0
+Basic Industries,fuel,0.52
+Basic Industries,hope,0.26
+Basic Industries,mixture,0.41
+Basic Industries,polyurethane,0.41
+Basic Industries,waterproof,0.41
+Basic Industries,biodiesel,0.41
+Basic Industries,resource,0
+Basic Industries,molybdenum,0.83
+Basic Industries,sealants,0.41
+Basic Industries,dupont,0.41
+Basic Industries,logistic,0
+Basic Industries,activity,0.26
+Basic Industries,release,0.2
+Basic Industries,fertility,0.41
+Basic Industries,prepolymer,0.41
+Basic Industries,leasing,0
+Basic Industries,heirloom,0.41
+Basic Industries,colorant,0.41
+Basic Industries,defense,0.13
+Basic Industries,audits,0.41
+Basic Industries,flavor,0.41
+Basic Industries,innovator,0.2
+Basic Industries,preparation,0.2
+Basic Industries,wire,0.2
+Basic Industries,capacity,0.13
+Basic Industries,biofuel,0.83
+Basic Industries,expert,0.41
+Basic Industries,scrap,0.83
+Basic Industries,label,0.2
+Basic Industries,state,0
+Basic Industries,conductive,0.41
+Basic Industries,approach,0.13
+Basic Industries,infrastructure,0
+Basic Industries,iron,0.26
+Basic Industries,parent,0.13
+Basic Industries,science,0
+Basic Industries,duraform,0.41
+Basic Industries,efficiency,0.13
+Basic Industries,news,0
+Basic Industries,kitchen,0.41
+Basic Industries,substation,0.52
+Basic Industries,reaction,0.41
+Basic Industries,installation,0.41
+Basic Industries,country,0
+Basic Industries,elastomer,0.41
+Basic Industries,supply,0
+Basic Industries,wall,0.41
+Basic Industries,recycling,0.83
+Basic Industries,cabinetry,0.41
+Basic Industries,lake,0.41
+Basic Industries,packaging,0.26
+Basic Industries,carbon,1.03
+Basic Industries,platinum,0.41
+Basic Industries,bathroom,0.41
+Basic Industries,teammate,0.41
+Basic Industries,publishing,0.83
+Basic Industries,suppressant,0.41
+Basic Industries,stretch,0.41
+Basic Industries,metallized,0.41
+Basic Industries,interest,0.2
+Basic Industries,waste,0.78
+Basic Industries,chemetall,0.41
+Basic Industries,veneer,0.41
+Basic Industries,collectible,0.41
+Basic Industries,innospec,0.41
+Basic Industries,palladium,0.41
+Basic Industries,decontamination,0.41
+Basic Industries,formate,0.41
+Basic Industries,georgia,0.41
+Basic Industries,tank,0.26
+Basic Industries,cash,0
+Basic Industries,value,0
+Basic Industries,bifold,0.41
+Basic Industries,polybutylene,0.41
+Basic Industries,property,0
+Basic Industries,margin,0.26
+Basic Industries,welding,0.26
+Basic Industries,cylinder,0.41
+Basic Industries,mexico,0
+Basic Industries,pool,0.41
+Basic Industries,soil,0.41
+Basic Industries,calculator,0.26
+Basic Industries,coating,0.83
+Basic Industries,site,0.39
+Basic Industries,surface,0
+Basic Industries,rooster,0.41
+Basic Industries,partner,0
+Basic Industries,technology,0
+Basic Industries,patent,0.41
+Basic Industries,textile,0.41
+Basic Industries,cabot,0.41
+Basic Industries,helium,0.41
+Basic Industries,lithium,0.41
+Basic Industries,kimdura,0.41
+Basic Industries,development,0
+Basic Industries,rail,0.26
+Basic Industries,allocation,0.41
+Basic Industries,cleaning,0.26
+Basic Industries,aggregate,0.26
+Basic Industries,opportunity,0
+Basic Industries,fabrication,0.26
+Basic Industries,center,0
+Basic Industries,builder,0.2
+Basic Industries,variety,0
+Basic Industries,edge,0.2
+Basic Industries,position,0.41
+Basic Industries,chemistry,0.52
+Basic Industries,cryogenic,0.26
+Basic Industries,castable,0.41
+Basic Industries,uranium,0.41
+Basic Industries,duraflex,0.41
+Basic Industries,agrochemical,0.41
+Basic Industries,superalloy,0.41
+Basic Industries,voltage,0.26
+Basic Industries,alternative,0
+Basic Industries,continent,0.41
+Basic Industries,nonwoven,0.41
+Basic Industries,loading,0.26
+Basic Industries,generator,0.13
+Basic Industries,advancement,0.41
+Basic Industries,contractor,0.78
+Basic Industries,source,0
+Basic Industries,location,0
+Basic Industries,potash,0.41
+Basic Industries,flashing,0.41
+Basic Industries,petrochemical,0.41
+Basic Industries,casting,0.41
+Basic Industries,emergency,0.41
+Basic Industries,government,0
+Basic Industries,community,0
+Basic Industries,aerospace,0.26
+Basic Industries,vacuum,0.26
+Basic Industries,press,0.2
+Basic Industries,world,0
+Basic Industries,railroad,0.2
+Basic Industries,alpharetta,0.41
+Basic Industries,furniture,0.13
+Basic Industries,resin,0.83
+Basic Industries,sustainablity,0.41
+Basic Industries,page,0.13
+Basic Industries,right,0
+Basic Industries,people,0
+Basic Industries,growth,0
+Basic Industries,biocatalyst,0.41
+Basic Industries,home,0
+Basic Industries,empire,0.41
+Basic Industries,newsletter,0.41
+Basic Industries,octane,0.41
+Basic Industries,munising,0.41
+Basic Industries,miner,0.83
+Basic Industries,microwave,0.2
+Basic Industries,innovation,0
+Basic Industries,epic,0.26
+Basic Industries,leader,0
+Basic Industries,business,0
+Basic Industries,marketing,0
+Basic Industries,comstock,0.41
+Basic Industries,cleanroom,0.26
+Basic Industries,leadership,0
+Basic Industries,corp,0.26
+Basic Industries,architectual,0.41
+Basic Industries,manufacturing,0
+Basic Industries,manufacturer,0
+Basic Industries,chilean,0.41
+Basic Industries,pipeline,0.26
+Basic Industries,extension,0.41
+Basic Industries,butanediol,0.41
+Basic Industries,industry,0
+Basic Industries,range,0
+Basic Industries,ounce,0.41
+Basic Industries,aquaculture,0.41
+Basic Industries,shareholder,0.13
+Basic Industries,processor,0.13
+Basic Industries,facility,0
+Basic Industries,synga,0.41
+Basic Industries,involvement,0.41
+Basic Industries,strip,0.26
+Basic Industries,operator,0.2
+Basic Industries,utility,0.39
+Basic Industries,pharmaceutical,0.26
+Basic Industries,coin,0.26
+Basic Industries,biobased,0.41
+Basic Industries,transfer,0.26
+Basic Industries,support,0.13
+Basic Industries,employee,0
+Basic Industries,custom,0
+Basic Industries,conservation,0.26
+Basic Industries,vein,0.41
+Basic Industries,globe,0.13
+Basic Industries,project,0.78
+Basic Industries,form,0.26
+Basic Industries,catalysi,0.41
+Basic Industries,potassium,0.83
+Basic Industries,specialty,2.69
+Basic Industries,cloth,0.41
+Basic Industries,heat,0.26
+Basic Industries,construction,0
+Basic Industries,catalyst,0.26
+Basic Industries,line,0
+Basic Industries,mineral,0.41
+Basic Industries,converter,0.2
+Basic Industries,peso,0.41
+Basic Industries,phosphate,0.41
+Basic Industries,exploration,1.31
+Basic Industries,fabricator,0.41
+Basic Industries,distribution,0
+Basic Industries,pulp,0.41
+Basic Industries,moly,0.41
+Basic Industries,inkjet,0.41
+Basic Industries,flow,0
+Basic Industries,engineering,0
+Basic Industries,expertise,0
+Basic Industries,aerogel,0.41
+Basic Industries,education,0
+Basic Industries,dealer,0.2
+Basic Industries,contest,0.41
+Basic Industries,corporation,0
+Basic Industries,storage,0
+Basic Industries,detail,0.41
+Basic Industries,goldfield,0.41
+Basic Industries,rubber,0.26
+Basic Industries,application,0
+Basic Industries,book,0.41
+Basic Industries,fiberglas,0.41
+Basic Industries,restoration,0.26
+Basic Industries,peak,0.26
+Basic Industries,biotechnology,0.52
+Basic Industries,fertilizer,0.41
+Basic Industries,wind,0.2
+Basic Industries,structure,0.26
+Basic Industries,shredder,0.41
+Basic Industries,building,0
+Basic Industries,wafer,0.2
+Basic Industries,consumer,0
+Basic Industries,beverage,0.41
+Basic Industries,nutrient,0.41
+Capital Goods,shop,0.38
+Capital Goods,chain,0.36
+Capital Goods,spacecraft,0.38
+Capital Goods,forage,0.38
+Capital Goods,mill,0.77
+Capital Goods,equipment,0
+Capital Goods,gusset,0.38
+Capital Goods,mower,0.24
+Capital Goods,environment,0.19
+Capital Goods,horespower,0.38
+Capital Goods,division,0.49
+Capital Goods,digit,0.38
+Capital Goods,advantage,0.19
+Capital Goods,propane,0.38
+Capital Goods,tank,0.24
+Capital Goods,cable,0.12
+Capital Goods,transmission,0.97
+Capital Goods,solution,0
+Capital Goods,circuit,0.24
+Capital Goods,sand,0.24
+Capital Goods,excellence,0.19
+Capital Goods,lever,0.38
+Capital Goods,inspection,0.24
+Capital Goods,work,0
+Capital Goods,neighborhood,0.19
+Capital Goods,genechip,0.38
+Capital Goods,design,0
+Capital Goods,portfolio,0
+Capital Goods,patient,0.38
+Capital Goods,specs,0.38
+Capital Goods,power,0
+Capital Goods,clock,0.24
+Capital Goods,compax,0.38
+Capital Goods,cell,0
+Capital Goods,microprocessor,0.24
+Capital Goods,supplier,1.16
+Capital Goods,happijac,0.38
+Capital Goods,mammography,0.38
+Capital Goods,niche,0.24
+Capital Goods,processing,0
+Capital Goods,transportation,0
+Capital Goods,degree,0.19
+Capital Goods,genotyping,0.38
+Capital Goods,component,1.35
+Capital Goods,chassis,0.77
+Capital Goods,pursuit,0.38
+Capital Goods,miscarriage,0.38
+Capital Goods,path,0.24
+Capital Goods,readymix,0.38
+Capital Goods,search,0
+Capital Goods,handlers,0.38
+Capital Goods,brushles,0.38
+Capital Goods,study,0.24
+Capital Goods,experience,0.12
+Capital Goods,credit,0.19
+Capital Goods,airport,0.19
+Capital Goods,implement,0.38
+Capital Goods,changer,0.38
+Capital Goods,imaging,0.38
+Capital Goods,avionics,0.38
+Capital Goods,family,0
+Capital Goods,readymixed,0.38
+Capital Goods,flexibility,0.24
+Capital Goods,motor,0.49
+Capital Goods,market,0
+Capital Goods,driveline,0.38
+Capital Goods,carbide,0.38
+Capital Goods,hospital,0.19
+Capital Goods,aste,0.38
+Capital Goods,camera,0.38
+Capital Goods,vehicle,0.73
+Capital Goods,panel,0.24
+Capital Goods,today,0
+Capital Goods,door,0.38
+Capital Goods,affy,0.38
+Capital Goods,company,0
+Capital Goods,emission,0.38
+Capital Goods,fuel,0.12
+Capital Goods,surface,0
+Capital Goods,customer,0
+Capital Goods,intake,0.38
+Capital Goods,manway,0.38
+Capital Goods,science,0
+Capital Goods,challenge,0.24
+Capital Goods,drill,0.12
+Capital Goods,containment,0.38
+Capital Goods,control,0
+Capital Goods,trenching,0.38
+Capital Goods,timberline,0.38
+Capital Goods,lock,0.38
+Capital Goods,chip,0.24
+Capital Goods,share,0.77
+Capital Goods,agent,0.24
+Capital Goods,titanium,0.24
+Capital Goods,axis,0.24
+Capital Goods,motion,0.98
+Capital Goods,monitoring,0.12
+Capital Goods,pogo,0.38
+Capital Goods,egres,0.38
+Capital Goods,chemical,0
+Capital Goods,lamp,0.24
+Capital Goods,anpr,0.38
+Capital Goods,stock,0
+Capital Goods,plant,0.19
+Capital Goods,description,0.24
+Capital Goods,information,0
+Capital Goods,office,0
+Capital Goods,hazard,0.38
+Capital Goods,accessory,0.24
+Capital Goods,sustainability,0.38
+Capital Goods,lighting,0.24
+Capital Goods,docking,0.38
+Capital Goods,light,0.73
+Capital Goods,coal,0.12
+Capital Goods,switch,0.97
+Capital Goods,truck,0.24
+Capital Goods,healthcare,0.38
+Capital Goods,alloy,0.49
+Capital Goods,interrupter,0.38
+Capital Goods,producer,0.24
+Capital Goods,telecom,0.12
+Capital Goods,mission,0.12
+Capital Goods,radar,0.38
+Capital Goods,scientist,0.38
+Capital Goods,keyboard,0.38
+Capital Goods,existence,0.38
+Capital Goods,turbine,0.38
+Capital Goods,windshield,0.38
+Capital Goods,developer,0
+Capital Goods,machine,0.73
+Capital Goods,police,0.38
+Capital Goods,encoding,0.38
+Capital Goods,window,0.38
+Capital Goods,production,0
+Capital Goods,tillage,0.38
+Capital Goods,farmer,0.24
+Capital Goods,conformance,0.38
+Capital Goods,misalignment,0.38
+Capital Goods,auto,0.12
+Capital Goods,material,0
+Capital Goods,nation,0
+Capital Goods,homebuilder,0.24
+Capital Goods,front,0.24
+Capital Goods,substrate,0.38
+Capital Goods,investor,0
+Capital Goods,clutch,0.38
+Capital Goods,capability,0.12
+Capital Goods,slide,0.38
+Capital Goods,truth,0.38
+Capital Goods,rock,0.19
+Capital Goods,wheel,0.38
+Capital Goods,storage,0
+Capital Goods,weight,0.38
+Capital Goods,gearmotor,0.38
+Capital Goods,generation,0.12
+Capital Goods,house,0.24
+Capital Goods,energy,0
+Capital Goods,product,0
+Capital Goods,trading,0.12
+Capital Goods,measurement,0.77
+Capital Goods,distributor,0.38
+Capital Goods,inverter,0.24
+Capital Goods,positioner,0.38
+Capital Goods,agriculture,0.19
+Capital Goods,network,0
+Capital Goods,space,0.49
+Capital Goods,rigging,0.38
+Capital Goods,quality,0
+Capital Goods,valve,0.73
+Capital Goods,diesel,0.77
+Capital Goods,factory,0.24
+Capital Goods,research,0
+Capital Goods,semiconductor,0.19
+Capital Goods,safety,0
+Capital Goods,reader,0.38
+Capital Goods,medicine,0.24
+Capital Goods,sensor,0.49
+Capital Goods,anticollision,0.38
+Capital Goods,independence,0.38
+Capital Goods,eagle,0.24
+Capital Goods,fiber,0
+Capital Goods,telecommunication,0.24
+Capital Goods,diagnostic,0.24
+Capital Goods,cockpit,0.77
+Capital Goods,base,0.12
+Capital Goods,emulation,0.38
+Capital Goods,drivetrain,0.38
+Capital Goods,automation,0.38
+Capital Goods,advance,0.49
+Capital Goods,trunnion,0.38
+Capital Goods,transaxle,0.38
+Capital Goods,silicon,0.49
+Capital Goods,router,0.24
+Capital Goods,smelting,0.38
+Capital Goods,saving,0.19
+Capital Goods,revenue,0.12
+Capital Goods,number,0.24
+Capital Goods,system,0
+Capital Goods,subcontractor,0.38
+Capital Goods,force,0.49
+Capital Goods,array,0.12
+Capital Goods,electronic,0.61
+Capital Goods,engineer,0.19
+Capital Goods,city,0.12
+Capital Goods,story,0.38
+Capital Goods,management,0
+Capital Goods,temperature,0.38
+Capital Goods,service,0
+Capital Goods,astrotech,0.38
+Capital Goods,elevator,0.38
+Capital Goods,aluminio,0.38
+Capital Goods,station,0.12
+Capital Goods,john,0.24
+Capital Goods,cabin,0.38
+Capital Goods,mining,0.19
+Capital Goods,gear,0.77
+Capital Goods,servo,0.38
+Capital Goods,tool,0
+Capital Goods,innovate,0.38
+Capital Goods,part,0
+Capital Goods,digi,0.38
+Capital Goods,steel,0.98
+Capital Goods,television,0.12
+Capital Goods,throttle,0.38
+Capital Goods,keyword,0.19
+Capital Goods,aztec,0.38
+Capital Goods,regulator,0.38
+Capital Goods,matter,0.38
+Capital Goods,computer,0.24
+Capital Goods,iron,0.24
+Capital Goods,prioritize,0.38
+Capital Goods,video,0.36
+Capital Goods,outcome,0.24
+Capital Goods,tractor,0.77
+Capital Goods,torque,0.38
+Capital Goods,ruggedized,0.38
+Capital Goods,option,0.12
+Capital Goods,gantry,0.38
+Capital Goods,agency,0.24
+Capital Goods,iivi,0.38
+Capital Goods,majority,0.38
+Capital Goods,edge,0.19
+Capital Goods,performance,0
+Capital Goods,competence,0.38
+Capital Goods,accuracy,0.38
+Capital Goods,price,0
+Capital Goods,combustion,0.38
+Capital Goods,plan,0
+Capital Goods,organization,0
+Capital Goods,device,0.12
+Capital Goods,coil,0.38
+Capital Goods,encoder,0.24
+Capital Goods,segment,0.12
+Capital Goods,prober,0.38
+Capital Goods,lawn,0.24
+Capital Goods,mineral,0.19
+Capital Goods,metal,1.22
+Capital Goods,pipe,0.19
+Capital Goods,metalworking,0.38
+Capital Goods,refining,0.19
+Capital Goods,professional,0
+Capital Goods,sector,0.19
+Capital Goods,golf,0.38
+Capital Goods,asphalt,0.38
+Capital Goods,coalcar,0.38
+Capital Goods,probe,0.38
+Capital Goods,homeowner,0.38
+Capital Goods,nasdaq,0.19
+Capital Goods,freight,0.38
+Capital Goods,manifold,0.38
+Capital Goods,spindle,0.38
+Capital Goods,line,0
+Capital Goods,ground,0.24
+Capital Goods,reservoir,0.19
+Capital Goods,wood,0.24
+Capital Goods,employee,0
+Capital Goods,proximity,0.38
+Capital Goods,plate,0.38
+Capital Goods,stow,0.38
+Capital Goods,fluid,0.19
+Capital Goods,resource,0
+Capital Goods,aluminum,1.22
+Capital Goods,differential,0.38
+Capital Goods,logistic,0
+Capital Goods,metalcutting,0.38
+Capital Goods,release,0.19
+Capital Goods,personalization,0.38
+Capital Goods,vision,0.12
+Capital Goods,view,0
+Capital Goods,milling,0.38
+Capital Goods,testing,0
+Capital Goods,coupler,0.38
+Capital Goods,detection,0.24
+Capital Goods,millimeterwave,0.38
+Capital Goods,parking,0.24
+Capital Goods,news,0
+Capital Goods,practice,0.12
+Capital Goods,wire,0.38
+Capital Goods,propulsion,0.38
+Capital Goods,homebuyer,0.38
+Capital Goods,oxidation,0.38
+Capital Goods,storeroom,0.38
+Capital Goods,infrastructure,0
+Capital Goods,parent,0.12
+Capital Goods,silicone,0.38
+Capital Goods,remanufactured,0.24
+Capital Goods,mailbox,0.38
+Capital Goods,efficiency,0.24
+Capital Goods,aircraft,0.73
+Capital Goods,interface,0.38
+Capital Goods,overhaul,0.38
+Capital Goods,passenger,0.38
+Capital Goods,defense,1
+Capital Goods,career,0
+Capital Goods,country,0
+Capital Goods,seattech,0.38
+Capital Goods,grain,0.77
+Capital Goods,railway,0.38
+Capital Goods,duty,0.38
+Capital Goods,supply,0
+Capital Goods,recycling,0.19
+Capital Goods,community,0
+Capital Goods,packaging,0.12
+Capital Goods,johndeere,0.38
+Capital Goods,connectivity,0.24
+Capital Goods,approval,0.38
+Capital Goods,table,0.38
+Capital Goods,seeding,0.38
+Capital Goods,belt,0.38
+Capital Goods,securement,0.38
+Capital Goods,conveyor,0.38
+Capital Goods,addition,0.49
+Capital Goods,gondola,0.38
+Capital Goods,innovation,0
+Capital Goods,workshop,0.38
+Capital Goods,maintenance,0.24
+Capital Goods,johndeer,0.38
+Capital Goods,helicopter,0.24
+Capital Goods,meeting,0.38
+Capital Goods,engine,0.98
+Capital Goods,life,0
+Capital Goods,nickel,0.38
+Capital Goods,bulk,0.24
+Capital Goods,controller,0.24
+Capital Goods,hoist,0.38
+Capital Goods,axle,0.38
+Capital Goods,aviation,0.49
+Capital Goods,shaft,0.77
+Capital Goods,handling,0.19
+Capital Goods,laser,0.38
+Capital Goods,rope,0.38
+Capital Goods,cast,0.38
+Capital Goods,ignition,0.38
+Capital Goods,fault,0.38
+Capital Goods,saxonburg,0.38
+Capital Goods,welding,0.24
+Capital Goods,aluminium,0.77
+Capital Goods,toolroom,0.38
+Capital Goods,pharmacogenomic,0.38
+Capital Goods,century,0.12
+Capital Goods,steelmaking,0.38
+Capital Goods,site,0.12
+Capital Goods,quickbite,0.38
+Capital Goods,hardware,0.24
+Capital Goods,cluster,0.38
+Capital Goods,brake,0.38
+Capital Goods,protein,0.24
+Capital Goods,technology,0
+Capital Goods,metrology,0.38
+Capital Goods,surveillance,0.24
+Capital Goods,microarray,0.38
+Capital Goods,inventory,0.73
+Capital Goods,electro,0.38
+Capital Goods,development,0
+Capital Goods,exhaust,1.16
+Capital Goods,optic,0.49
+Capital Goods,rail,0.24
+Capital Goods,cement,0.38
+Capital Goods,hand,0.77
+Capital Goods,strength,0.24
+Capital Goods,aggregate,0.24
+Capital Goods,fabrication,0.49
+Capital Goods,chattanooga,0.38
+Capital Goods,center,0
+Capital Goods,navigation,0.38
+Capital Goods,builder,0.38
+Capital Goods,floor,0.12
+Capital Goods,analysis,0.49
+Capital Goods,contact,0.19
+Capital Goods,relief,0.77
+Capital Goods,personnel,0.38
+Capital Goods,position,0.19
+Capital Goods,chemistry,0.24
+Capital Goods,cryogenic,0.24
+Capital Goods,taxi,0.38
+Capital Goods,protocol,0.38
+Capital Goods,photo,0.38
+Capital Goods,laptop,0.19
+Capital Goods,electroluminescent,0.38
+Capital Goods,propeller,0.38
+Capital Goods,kalu,0.38
+Capital Goods,alternative,0
+Capital Goods,speed,0.24
+Capital Goods,alignment,0.38
+Capital Goods,density,0.38
+Capital Goods,drive,0.19
+Capital Goods,contractor,0.49
+Capital Goods,pallet,0.38
+Capital Goods,instrument,0.77
+Capital Goods,location,0
+Capital Goods,input,0.24
+Capital Goods,transformation,0.24
+Capital Goods,vendor,0.49
+Capital Goods,railcar,0.24
+Capital Goods,emergency,0.19
+Capital Goods,government,0
+Capital Goods,compex,0.38
+Capital Goods,traffic,0.38
+Capital Goods,aerospace,2.21
+Capital Goods,press,0.19
+Capital Goods,world,0
+Capital Goods,railroad,0.38
+Capital Goods,furniture,0.24
+Capital Goods,vending,0.38
+Capital Goods,chamber,0.24
+Capital Goods,tower,0.38
+Capital Goods,disorder,0.24
+Capital Goods,page,0.24
+Capital Goods,replacement,0.77
+Capital Goods,spring,0.24
+Capital Goods,lathe,0.38
+Capital Goods,growth,0
+Capital Goods,mirror,0.38
+Capital Goods,home,0
+Capital Goods,transport,0.19
+Capital Goods,manipulator,0.38
+Capital Goods,competitor,0.38
+Capital Goods,microwave,0.58
+Capital Goods,exit,0.38
+Capital Goods,provider,0
+Capital Goods,leader,0
+Capital Goods,biology,0.24
+Capital Goods,assembly,0.73
+Capital Goods,business,0
+Capital Goods,internship,0.38
+Capital Goods,marketing,0
+Capital Goods,barcode,0.38
+Capital Goods,centaur,0.38
+Capital Goods,pressure,0.24
+Capital Goods,leadership,0
+Capital Goods,bolt,0.38
+Capital Goods,aerostructure,0.38
+Capital Goods,flatcar,0.38
+Capital Goods,manufacturing,0
+Capital Goods,security,0
+Capital Goods,manufacturer,0
+Capital Goods,pipeline,0.12
+Capital Goods,freedom,0.38
+Capital Goods,industry,0
+Capital Goods,range,0
+Capital Goods,carrier,0.19
+Capital Goods,airline,0.19
+Capital Goods,road,0.24
+Capital Goods,repair,0.58
+Capital Goods,facility,0
+Capital Goods,communication,0.36
+Capital Goods,image,0.24
+Capital Goods,commitment,0.24
+Capital Goods,ultrasound,0.38
+Capital Goods,resilience,0.38
+Capital Goods,utility,0.12
+Capital Goods,america,0.19
+Capital Goods,networking,0.12
+Capital Goods,custom,0
+Capital Goods,globe,0.12
+Capital Goods,head,0.38
+Capital Goods,medium,0.38
+Capital Goods,offer,0
+Capital Goods,brand,0
+Capital Goods,landing,0.77
+Capital Goods,cabinet,0.38
+Capital Goods,construction,0
+Capital Goods,catalyst,0.24
+Capital Goods,delta,0.38
+Capital Goods,subsidiary,0.12
+Capital Goods,crane,0.38
+Capital Goods,fort,0.24
+Capital Goods,converter,0.19
+Capital Goods,harvester,0.38
+Capital Goods,default,0.24
+Capital Goods,reinforcement,0.38
+Capital Goods,crystal,0.38
+Capital Goods,distribution,0
+Capital Goods,display,0.38
+Capital Goods,bearing,0.38
+Capital Goods,citizenship,0.38
+Capital Goods,flow,0
+Capital Goods,year,0
+Capital Goods,deer,0.38
+Capital Goods,sale,0
+Capital Goods,stergren,0.38
+Capital Goods,engineering,0
+Capital Goods,expertise,0
+Capital Goods,education,0
+Capital Goods,mold,0.38
+Capital Goods,dealer,0.38
+Capital Goods,variety,0
+Capital Goods,corporation,0
+Capital Goods,telemetry,0.19
+Capital Goods,reality,0.38
+Capital Goods,forestry,0.38
+Capital Goods,application,0
+Capital Goods,other,0.24
+Capital Goods,functionality,0.38
+Capital Goods,branch,0.24
+Capital Goods,test,0.49
+Capital Goods,symbol,0.38
+Capital Goods,kaiser,0.38
+Capital Goods,astec,0.38
+Capital Goods,building,0
+Capital Goods,coreles,0.38
+Capital Goods,validation,0.24
+Capital Goods,coupling,0.38
+Capital Goods,wafer,0.19
+Capital Goods,foundry,0.38
+Capital Goods,diagnosis,0.38
+Capital Goods,diagnotic,0.38
+Technology,code,0.42
+Technology,chain,0.13
+Technology,dynamic,0.42
+Technology,manager,0.53
+Technology,concept,0.42
+Technology,settlement,0.84
+Technology,baseband,0.42
+Technology,content,0.63
+Technology,atlan,0.42
+Technology,multicore,0.42
+Technology,swap,0.42
+Technology,sourcing,0.21
+Technology,family,0
+Technology,risk,0.21
+Technology,amplifier,0.42
+Technology,supercomputer,0.42
+Technology,dell,0.42
+Technology,school,0.13
+Technology,cable,0.39
+Technology,level,0.26
+Technology,solution,0
+Technology,leader,0
+Technology,inspection,0.53
+Technology,pacakaging,0.42
+Technology,cyber,0.84
+Technology,cost,0.26
+Technology,design,0
+Technology,investment,0
+Technology,cargo,0.26
+Technology,power,0
+Technology,clock,0.26
+Technology,dealer,0.21
+Technology,specification,0.42
+Technology,multimedia,0.42
+Technology,bipolar,0.42
+Technology,microprocessor,0.26
+Technology,capital,0
+Technology,supplier,0.63
+Technology,method,0.26
+Technology,body,0.26
+Technology,cleanroom,0.26
+Technology,transportation,0
+Technology,degree,0.21
+Technology,component,0.26
+Technology,understanding,0.42
+Technology,protection,0
+Technology,studio,0.26
+Technology,hightech,0.42
+Technology,search,0
+Technology,voice,0.21
+Technology,talent,0.26
+Technology,study,0.53
+Technology,compliance,0.26
+Technology,experience,0.53
+Technology,credit,0.63
+Technology,hospitality,0.26
+Technology,campaign,0.42
+Technology,unit,0.42
+Technology,monetization,0.26
+Technology,wealth,0.21
+Technology,certificate,0.26
+Technology,multiphysic,0.42
+Technology,program,0
+Technology,asset,0
+Technology,memory,0.53
+Technology,encode,0.42
+Technology,panel,0.26
+Technology,type,0.26
+Technology,today,0
+Technology,company,0
+Technology,treasury,0.26
+Technology,biller,0.42
+Technology,visibility,0.42
+Technology,glass,0.26
+Technology,surface,0
+Technology,customer,0
+Technology,account,0.13
+Technology,graphic,0.42
+Technology,room,0.26
+Technology,telephony,0.26
+Technology,science,0
+Technology,challenge,0.13
+Technology,work,0
+Technology,conformity,0.42
+Technology,scripting,0.42
+Technology,control,0
+Technology,process,0
+Technology,chip,1.06
+Technology,enablement,0.84
+Technology,guarantee,0.42
+Technology,information,0
+Technology,arsenide,0.42
+Technology,interconnect,0.42
+Technology,goal,0.21
+Technology,chemical,0
+Technology,lamp,0.26
+Technology,answer,0.21
+Technology,axis,0.26
+Technology,stock,0
+Technology,product,0
+Technology,rise,0.42
+Technology,threat,0.42
+Technology,collection,0.21
+Technology,diagram,0.42
+Technology,connectivity,0.53
+Technology,notebook,0.26
+Technology,lighting,0.53
+Technology,monitoring,0.13
+Technology,data,0
+Technology,response,0.21
+Technology,workstation,0.26
+Technology,documentation,0.42
+Technology,robot,0.42
+Technology,switch,0.42
+Technology,ethernet,0.42
+Technology,refund,0.42
+Technology,office,0
+Technology,telecom,0.26
+Technology,insight,0.42
+Technology,mission,0.13
+Technology,trade,0.21
+Technology,stability,0.42
+Technology,performance,0
+Technology,developer,0
+Technology,machine,0.26
+Technology,arduino,0.42
+Technology,platform,0.66
+Technology,production,0
+Technology,carton,0.42
+Technology,employment,0.13
+Technology,return,0.13
+Technology,finance,0.53
+Technology,auto,0.13
+Technology,material,0
+Technology,scorecarding,0.42
+Technology,fingerprint,0.42
+Technology,palletwide,0.42
+Technology,term,0.13
+Technology,meat,0.42
+Technology,university,0.21
+Technology,crypto,0.42
+Technology,trailer,0.84
+Technology,generation,0.26
+Technology,energy,0
+Technology,contracting,0.26
+Technology,frequency,0.42
+Technology,year,0
+Technology,event,0.21
+Technology,epayment,0.42
+Technology,container,0.53
+Technology,network,0
+Technology,space,0.53
+Technology,electronic,0.13
+Technology,factory,0.26
+Technology,research,0
+Technology,semiconductor,1.47
+Technology,hitech,0.42
+Technology,desking,0.42
+Technology,engineer,0.21
+Technology,sensor,0.26
+Technology,fiber,0
+Technology,telecommunication,0.13
+Technology,workflow,0.42
+Technology,million,0.13
+Technology,payroll,0.79
+Technology,base,0.13
+Technology,imaging,0.42
+Technology,networking,0.53
+Technology,card,0
+Technology,interaction,0.42
+Technology,transition,0.26
+Technology,silicon,0.53
+Technology,thing,0.26
+Technology,place,0.13
+Technology,footwear,0.26
+Technology,circuit,0.79
+Technology,router,0.26
+Technology,nonprofit,0.42
+Technology,shopper,0.84
+Technology,revenue,0.26
+Technology,preservation,0.26
+Technology,price,0
+Technology,quality,0
+Technology,tomorrow,0.42
+Technology,size,0.26
+Technology,management,0
+Technology,temperature,0.21
+Technology,service,0
+Technology,engagement,0.26
+Technology,system,0
+Technology,designer,0.21
+Technology,lifecycle,0.42
+Technology,station,0.13
+Technology,hundred,0.53
+Technology,filter,0.26
+Technology,store,0.26
+Technology,lease,0.53
+Technology,agility,0.26
+Technology,relationship,0.26
+Technology,tool,0
+Technology,institution,0.13
+Technology,television,0.26
+Technology,preparation,0.21
+Technology,planarization,0.42
+Technology,compensation,0.42
+Technology,computer,0.26
+Technology,video,0.53
+Technology,acquisition,0.21
+Technology,bridge,0.26
+Technology,fashion,0.26
+Technology,spectrum,0.26
+Technology,rent,0.26
+Technology,gigabit,0.42
+Technology,acceleration,0.42
+Technology,instrumentation,0.42
+Technology,conversion,0.42
+Technology,veteran,0.26
+Technology,complexity,0.42
+Technology,mechanism,0.26
+Technology,equipment,0
+Technology,donor,0.42
+Technology,debugging,0.42
+Technology,printer,0.26
+Technology,offload,0.42
+Technology,collaboration,0.84
+Technology,virus,0.26
+Technology,entry,0.26
+Technology,phase,0.42
+Technology,gallery,0.42
+Technology,astro,0.42
+Technology,archiving,0.42
+Technology,flow,0
+Technology,sale,0
+Technology,face,0.26
+Technology,cortex,0.42
+Technology,enterprise,1.05
+Technology,professional,0
+Technology,physics,0.26
+Technology,liquidity,0.42
+Technology,nasdaq,0.21
+Technology,planning,0.21
+Technology,radio,0.42
+Technology,freight,0.21
+Technology,portfolio,0
+Technology,upgrade,0.26
+Technology,importer,0.42
+Technology,employer,0.26
+Technology,analytic,2.11
+Technology,tape,0.26
+Technology,equity,0.26
+Technology,employee,0
+Technology,dispute,0.42
+Technology,move,0.26
+Technology,fluid,0.21
+Technology,report,0.13
+Technology,resource,0
+Technology,course,0.42
+Technology,shopping,0.26
+Technology,banking,0.21
+Technology,logistic,0
+Technology,tuner,0.42
+Technology,vision,0.26
+Technology,view,0
+Technology,leasing,0
+Technology,nanotube,0.42
+Technology,testing,0
+Technology,authorization,0.42
+Technology,reefer,0.53
+Technology,module,1.26
+Technology,detection,0.26
+Technology,defense,0.13
+Technology,college,0.42
+Technology,result,0.13
+Technology,wideband,0.42
+Technology,electrode,0.26
+Technology,analog,0.42
+Technology,innovator,0.21
+Technology,review,0.26
+Technology,outsourcing,0.53
+Technology,label,0.42
+Technology,bureau,0.42
+Technology,downconverter,0.42
+Technology,import,0.42
+Technology,email,0.26
+Technology,infrastructure,0
+Technology,remanufactured,0.26
+Technology,bump,0.42
+Technology,aircraft,0.26
+Technology,dividend,0.42
+Technology,unitive,0.42
+Technology,distribution,0
+Technology,admin,0.42
+Technology,country,0
+Technology,deduction,0.42
+Technology,alot,0.42
+Technology,receiver,0.42
+Technology,contribution,0.42
+Technology,point,0.42
+Technology,color,0.42
+Technology,cobble,0.42
+Technology,packaging,0.26
+Technology,carbon,0.21
+Technology,trust,0.13
+Technology,billing,0.26
+Technology,innovation,0
+Technology,refrigeration,0.42
+Technology,photovoltaic,0.42
+Technology,prototype,0.42
+Technology,firm,0.21
+Technology,life,0
+Technology,flight,0.26
+Technology,thousand,0.42
+Technology,precision,0.26
+Technology,fund,0.42
+Technology,controller,0.53
+Technology,bulb,0.42
+Technology,case,0.84
+Technology,commerce,0.42
+Technology,multi,0.26
+Technology,handling,0.21
+Technology,enrollment,0.42
+Technology,zlib,0.42
+Technology,cash,0
+Technology,value,0
+Technology,behavior,0.42
+Technology,fleet,0.13
+Technology,property,0
+Technology,margin,0.26
+Technology,loop,0.42
+Technology,supply,0
+Technology,graphene,0.26
+Technology,coating,0.21
+Technology,telephone,0.26
+Technology,player,0.42
+Technology,partner,0
+Technology,technology,1
+Technology,laundering,0.42
+Technology,productivity,0.53
+Technology,trial,0.53
+Technology,media,0
+Technology,administration,1.26
+Technology,check,0.53
+Technology,authentication,0.53
+Technology,chargeback,0.42
+Technology,document,0.42
+Technology,development,0
+Technology,satellite,0.13
+Technology,workforce,0.84
+Technology,automation,0.63
+Technology,debit,0.26
+Technology,portal,0.26
+Technology,issuance,0.42
+Technology,robotic,0.42
+Technology,opportunity,0
+Technology,cycle,0.26
+Technology,poultry,0.42
+Technology,transaction,0.84
+Technology,center,0
+Technology,intrusion,0.42
+Technology,client,0.26
+Technology,organization,0
+Technology,model,0.21
+Technology,modem,0.26
+Technology,financing,0
+Technology,storage,0
+Technology,laptop,0.21
+Technology,deployment,0.42
+Technology,touch,0.42
+Technology,speed,0.26
+Technology,datacom,0.42
+Technology,visualization,0.42
+Technology,softphone,0.42
+Technology,drive,0.21
+Technology,desktop,0.26
+Technology,instrument,0.21
+Technology,transformation,0.53
+Technology,harvesting,0.42
+Technology,vendor,0.26
+Technology,government,0
+Technology,microcontroller,0.42
+Technology,vacuum,0.26
+Technology,world,0
+Technology,furniture,0.13
+Technology,loss,0.42
+Technology,gift,0.13
+Technology,cooler,0.42
+Technology,signal,0.42
+Technology,server,0.79
+Technology,benefit,0.42
+Technology,prevention,0.53
+Technology,security,0
+Technology,outsourced,0.42
+Technology,right,0
+Technology,people,0
+Technology,library,0.42
+Technology,growth,0
+Technology,export,0.42
+Technology,invoice,0.42
+Technology,home,0
+Technology,ascent,0.42
+Technology,broadband,0.21
+Technology,electromagnetic,0.84
+Technology,integration,0.21
+Technology,pioneer,0.21
+Technology,market,0
+Technology,provider,0
+Technology,recorder,0.42
+Technology,slurry,0.42
+Technology,core,0.39
+Technology,assembly,0.53
+Technology,business,0
+Technology,marketing,0
+Technology,payment,0.42
+Technology,processing,0
+Technology,broker,0.26
+Technology,manufacturing,0
+Technology,predictability,0.42
+Technology,manufacturer,0
+Technology,package,0.42
+Technology,sepa,0.42
+Technology,industry,0
+Technology,gallium,0.42
+Technology,simulation,0.84
+Technology,range,0
+Technology,airline,0.21
+Technology,improvement,0.26
+Technology,backup,0.42
+Technology,processor,0.39
+Technology,optoelectronic,0.84
+Technology,software,0
+Technology,consulting,0.21
+Technology,communication,0.66
+Technology,image,0.26
+Technology,retailer,0.42
+Technology,operator,0.21
+Technology,area,0
+Technology,question,0.26
+Technology,custom,0
+Technology,synthesizer,0.42
+Technology,upconverter,0.42
+Technology,offering,0
+Technology,offer,0
+Technology,brand,0
+Technology,encoder,0.26
+Technology,delivery,0
+Technology,cloud,1.59
+Technology,gain,0.42
+Technology,decoder,0.42
+Technology,convergence,0.42
+Technology,nanowire,0.42
+Technology,valuation,0.42
+Technology,fraud,0.42
+Technology,wafer,0.21
+Technology,appliance,0.53
+Technology,verification,0.42
+Technology,problem,0.42
+Technology,motion,0.26
+Technology,money,0
+Technology,convergent,0.42
+Technology,engineering,0
+Technology,file,0.42
+Technology,accounting,1.26
+Technology,modeling,0.84
+Technology,education,0
+Technology,archive,0.42
+Technology,film,0.42
+Technology,floor,0.13
+Technology,corporation,0
+Technology,telemetry,0.21
+Technology,exception,0.42
+Technology,application,0
+Technology,other,0.26
+Technology,test,0.13
+Technology,roll,0.42
+Technology,soho,0.42
+Technology,exporter,0.42
+Technology,audience,0.42
+Technology,timing,0.42
+Technology,algorithm,0.42
+Technology,phone,0.13
+Technology,consumer,0
+Technology,nanomaterial,0.42
+Technology,time,0.53
+Technology,apparel,0.26
+Technology,validation,0.26
+Technology,presentment,0.42
+Energy,gas,1
+Energy,oil,1
+Capital Goods,pollution,1
+Capital Goods,water,1
+Capital Goods,filter,1
+Capital Goods,home,1
+Capital Goods,homebuilder,1
+Technology,email,1

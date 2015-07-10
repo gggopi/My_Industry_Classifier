@@ -1,0 +1,85 @@
+{"Consumer Durables": ["Publishing", "Building Products", "Metal Fabrications", "Automotive Aftermarket", "Industrial Specialties", "Steel/Iron Ore", "Specialty Chemicals", "Containers/Packaging", "Home Furnishings", "Miscellaneous manufacturing industries", "Consumer Specialties", "Telecommunications Equipment", "Office Equipment/Supplies/Services", "Consumer Electronics/Appliances", "Electrical Products", "Diversified Electronic Products", "Industrial Machinery/Components"],
+
+ "Transportation": ["Transportation Services", "Air Freight/Delivery Services", "Trucking Freight/Courier Services", "Marine Transportation", "Oil Refining/Marketing", "Railroads", "Aerospace", "Other Transportation"], 
+
+ "Finance": 
+ 
+ ["Business Services", "Property-Casualty Insurers", "Major Banks", "Savings Institutions", "Diversified Commercial Services", "Investment Managers", "Accident &Health Insurance", "Real Estate", "Finance: Consumer Services", "Life Insurance", "Banks", "Specialty Insurers", "Finance/Investors Services", "Finance Companies", "Commercial Banks", "Investment Bankers/Brokers/Service", "Diversified Financial Services"],
+ "Public Utilities": 
+
+
+
+["Electric Utilities: Central", "Telecommunications Equipment", "Oil/Gas Transmission", "Power Generation", "Natural Gas Distribution", "Water Supply", "Environmental Services", "Oil & Gas Production"], 
+
+"Health Care":
+["Biotechnology","Hospital/Nursing Management","Industrial Specialties","Major Pharmaceuticals","Medical Specialities","Medical/Dental Instruments","Medical/Nursing Services"]
+,
+"Energy": 
+
+["Oil & Gas Production", "Oil Refining/Marketing", "Coal Mining", "Integrated oil Companies", "Electric Utilities: Central", "Industrial Machinery/Components", "Metal Fabrications", "Oilfield Services/Equipment", "Natural Gas Distribution", "Consumer Electronics/Appliances"],
+
+
+"Basic Industries": [
+
+"Major Chemicals", 
+"Water Supply", 
+"Specialty Chemicals", 
+"Precious Metals", 
+"Agricultural Chemicals", 
+"Steel/Iron Ore", 
+"Textiles", 
+"Other Specialty Stores", 
+"Engineering & Construction", 
+"Forest Products", 
+"Mining & Quarrying of Nonmetallic Minerals (No Fuels)", 
+"Paints/Coatings", 
+"Telecommunications Equipment", 
+"Metal Fabrications", 
+"Homebuilding", 
+"Aluminum", 
+"Package Goods/Cosmetics", 
+"Environmental Services", 
+"Paper", 
+"Electric Utilities: Central", 
+"Military/Government/Technical", 
+"Home Furnishings", 
+"Miscellaneous", 
+"Containers/Packaging"
+
+], 
+
+"Capital Goods": [
+
+"Homebuilding", 
+"Industrial Machinery/Components",
+"Aerospace", 
+"Laboratory Instruments",
+"Auto Parts:O.E.M.", 
+"Containers/Packaging", 
+"Electrical Products", 
+"Specialty Chemicals", 
+"Military/Government/Technical", 
+"Metal Fabrications", 
+"Railroads", 
+"Fluid Controls", 
+"Industrial Specialties", 
+"Construction/Ag Equipment/Trucks", 
+"Wholesale Distributors", 
+"Pollution Control Equipment", 
+"Building Materials", 
+"Medical Specialities", 
+"Automotive Aftermarket", 
+"Engineering & Construction", 
+"Electronic Components", 
+"Auto Manufacturing", 
+"Steel/Iron Ore", 
+"Marine Transportation", 
+"Building Products", 
+"Ordnance And Accessories", 
+"Tools/Hardware"
+],
+
+ "Technology": ["Computer Software", "Diversified Commercial Services", "EDP Services", "Industrial Machinery/Components", "Semiconductors", "Computer Software", "Professional Services", "Computer Manufacturing", "Computer peripheral equipment", "Electrical Products", "Computer Communications Equipment", "Advertising", "Electronic Components", "Retail: Computer Software & Peripheral Equipment", "Telecommunications Equipment"]
+
+
+}
